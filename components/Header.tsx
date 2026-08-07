@@ -55,7 +55,6 @@ export default function Header() {
           <nav
             aria-label="Main"
             className="hidden items-center gap-5 text-sm font-semibold text-slate-700 lg:flex"
-            onClick={closeDropdowns}
           >
             <details className="group relative" name="site-nav-dropdown">
               <summary className="flex cursor-pointer items-center gap-1 py-2 hover:text-teal-700">
@@ -67,6 +66,7 @@ export default function Header() {
                   <Link
                     key={service.href}
                     href={service.href}
+                    onClick={closeDropdowns}
                     className="block rounded-md px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-teal-50 hover:text-teal-700"
                   >
                     {service.label}
@@ -84,6 +84,7 @@ export default function Header() {
                   <Link
                     key={area.href}
                     href={area.href}
+                    onClick={closeDropdowns}
                     className="block rounded-md px-3 py-2 text-sm font-semibold text-slate-700 hover:bg-teal-50 hover:text-teal-700"
                   >
                     {area.label}
