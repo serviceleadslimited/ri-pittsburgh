@@ -18,9 +18,7 @@ faqs:
 
 If you'd rather look at your options before picking up the phone, this page is for that. Below are plain-text summaries of what a handful of Pittsburgh roof inspection contractors say about inspections on their own websites. No rankings, no endorsements, no promises about availability — just what's publicly published, so you can compare scope before you call anyone.
 
-One note on terminology, because it trips people up: a roofing contractor and an independent roof inspector are different animals. A contractor inspects for free because they'd like the repair work. An independent inspector charges a fee and has nothing to sell you afterward. Most of the companies below are the former. Which one you want depends on whether you need a roof fixed or a roof judged.
-
-Prefer to skip the comparison shopping? Call **(412) 797-5703** or request a [free roof inspection](/contact#quote). For the difference between a free contractor visit and a paid independent report, see the [roof inspection cost guide](/roof-inspection-cost).
+Prefer to skip the comparison shopping? Call **(412) 797-5703** or request a [free roof inspection](/contact#quote).
 
 ## Pittsburgh-area roofing and inspection options
 
@@ -54,7 +52,9 @@ Pittsabana's inspection page describes a 15-point inspection covering roof compo
 
 ## How to compare a roof-inspection visit
 
-Start with your problem, not the company name. A ceiling stain, storm debris, an old roof, a pending home purchase, and a replacement recommendation you don't trust all call for different scope. A free contractor visit handles most repair and condition questions well. A paid independent assessment earns its fee when what you need is a neutral written opinion for a sale, a purchase, a dispute, an HOA, or a formal filing.
+One note on terminology first, because it trips people up: a roofing contractor and an independent roof inspector are different animals. A contractor inspects for free because they'd like the repair work. An independent inspector charges a fee and has nothing to sell you afterward. Most of the companies above are the former. Which one you want depends on whether you need a roof fixed or a roof judged. For the difference between a free contractor visit and a paid independent report, see the [roof inspection cost guide](/roof-inspection-cost).
+
+With that straight — start with your problem, not the company name. A ceiling stain, storm debris, an old roof, a pending home purchase, and a replacement recommendation you don't trust all call for different scope. A free contractor visit handles most repair and condition questions well. A paid independent assessment earns its fee when what you need is a neutral written opinion for a sale, a purchase, a dispute, an HOA, or a formal filing.
 
 When you call, ask what actually gets checked. A real answer covers the roof surface, flashing, valleys, penetrations, gutters and drainage, and accessible attic or interior evidence where it relates to the problem. Then ask what *can't* be reached safely and how that limits the conclusion — a contractor who volunteers their own limits is generally the one worth hiring.
 
