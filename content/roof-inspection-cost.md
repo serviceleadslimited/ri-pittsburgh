@@ -18,6 +18,17 @@ The short answer is that Pittsburgh roof inspection pricing depends on **who is 
 
 This is a planning guide, not a price quote or a survey of every Pittsburgh provider. We are a free referral service, not the contractor. We connect you with an independent local roofing professional, and you should ask for the inspection scope and price before scheduling.
 
+## Pittsburgh roof inspection planning ranges
+
+| Inspection type | Planning range | What it usually means |
+| --- | ---: | --- |
+| Free contractor inspection | $0 | A roofing professional evaluates the roof while preparing a repair or replacement estimate. |
+| Independent condition check | $150–$400 | A paid assessment focused on the roof's current condition, without assuming you will buy repair work. |
+| Inspection with written report | $250–$600 | More documentation, labeled photographs, and written findings than a basic estimate visit. |
+| Purchase, sale, or claim documentation | $300–$750 | A more formal scope where the report must support a transaction, dispute, or insurance conversation. |
+
+These are planning ranges, not a guaranteed Pittsburgh price list. Roof size, height, pitch, material, attic access, moisture testing, drone or infrared work, travel, and report requirements can move the quote. Ask what is included before booking.
+
 ## Free contractor inspection versus paid independent inspection
 
 A free contractor inspection is often the practical first step when you have a leak, visible damage, or an aging roof. The contractor is evaluating the roof so they can recommend and price work. The visit may include photographs and a written estimate, but the contractor also has an interest in getting the repair or replacement job.

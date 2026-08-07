@@ -3,6 +3,7 @@ import { breadcrumbSchema, faqSchema, serviceSchema } from "@/lib/schema";
 import { PHONE_DISPLAY, PHONE_HREF, AREA_NAME } from "@/lib/site";
 
 import AnchorOpener from "./AnchorOpener";
+import CostCalculator from "./CostCalculator";
 import FaqSection from "./FaqSection";
 import HowItWorks from "./HowItWorks";
 import JsonLd from "./JsonLd";
@@ -119,8 +120,7 @@ export default function PageTemplate({ page }: { page: PageContent }) {
               dangerouslySetInnerHTML={{ __html: page.bodyHtml }}
             />
           )}
-          {/* Interactive planning-range estimator, cost guide only — ranges
-              sourced exclusively from this page's price table (DECISIONS #19). */}
+          {page.slug === "/roof-inspection-cost" && <CostCalculator />}
 
         </div>
       </div>
@@ -134,16 +134,16 @@ export default function PageTemplate({ page }: { page: PageContent }) {
               Ready to get started?
             </h2>
             <p className="mt-3 text-slate-300">
-              Ready for a free estimate? Get connected with a local, insured
-              exterior-cleaning contractor. Straight answers, transparent
-              pricing.
+              Ready for a free inspection? Get connected with a local, insured
+              roofing professional. Straight answers, clear scope, and no
+              obligation to hire.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <a
                 href="#quote"
                 className="rounded-md bg-amber-500 px-6 py-3.5 text-base font-extrabold text-slate-900 hover:bg-amber-600"
               >
-                Free Estimate
+                Free Inspection
               </a>
               <a
                 href={PHONE_HREF}

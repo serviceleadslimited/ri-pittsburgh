@@ -5,15 +5,9 @@
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
 
-  /* Site #12 identity (roofcleaningsandiegoca.com): fresh-water teal
-     dominant, deliberately distinct from any prior niche family — first
-     roof-cleaning/pressure-washing site in the portfolio, no same-family
-     collision risk. Never green (the color of the algae/moss problem).
-     Components use literal teal-* Tailwind classes directly, so those
-     tokens are aliased here so bg-teal-700 renders the real dominant hex
-     #0e7490. 600/700 keep ≥4.5:1 contrast with white in both directions.
-     CTA buttons keep the amber-500/600 class names, but those two tokens
-     are aliased to orange below (dark text) — see docs/DECISIONS.md. */
+  /* Pittsburgh slate system. Components use literal teal-* classes inherited
+     from the shared template; the aliases keep the site on the approved
+     slate palette without changing component markup. */
   --color-teal-50: #f8fafc;
   --color-teal-200: #cbd5e1;
   --color-teal-300: #cbd5e1;
@@ -22,11 +16,9 @@
   --color-teal-700: #1e293b;
   --color-teal-800: #0f172a;
 
-  /* CTA accent: amber-* utilities render orange on this site (kit palette
-     #EA580C / hover #C2410C). Token aliasing keeps the class names stable
-     across the template line. */
-  --color-amber-500: #d97706;
-  --color-amber-600: #b45309;
+  /* Bright orange CTA accent: black text clears contrast comfortably. */
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
 }
 
 html {
