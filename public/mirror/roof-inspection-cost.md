@@ -1,6 +1,6 @@
 ---
 slug: /roof-inspection-cost
-title: "Roof Inspection Cost Pittsburgh, PA | (412) 797-5703"
+title: "Roof Inspection Cost Pittsburgh, PA | What You Pay For"
 metaDescription: "What a roof inspection costs in Pittsburgh: the free contractor visit versus a paid independent report, with real ranges. Call (412) 797-5703."
 h1: "Roof Inspection Cost in Pittsburgh, PA"
 primaryKeyword: "roof inspection cost pittsburgh"

@@ -1,6 +1,6 @@
 ---
 slug: /storm-damage-roof-inspection
-title: "Storm Damage Roof Inspection Pittsburgh | (412) 797-5703"
+title: "Storm Damage Roof Inspection Pittsburgh | Hail & Wind Checks"
 metaDescription: "Wind, hail, or fallen-branch roof damage in Pittsburgh? Free inspection from an insured local pro, with photos and a dated record. Call (412) 797-5703."
 h1: "Storm Damage Roof Inspection Pittsburgh"
 primaryKeyword: "storm damage roof inspection pittsburgh"

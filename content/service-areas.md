@@ -1,6 +1,6 @@
 ---
 slug: /service-areas
-title: "Roof Inspection Service Areas Pittsburgh, PA | (412) 797-5703"
+title: "Roof Inspection Service Areas Pittsburgh | Free Inspection"
 metaDescription: "Free roof inspection across Pittsburgh and Allegheny County — city, South Hills, East End, North Hills, and the west suburbs. Call (412) 797-5703."
 h1: "Pittsburgh Roof Inspection Service Areas"
 primaryKeyword: "roof inspection service areas pittsburgh"

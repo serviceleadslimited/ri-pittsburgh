@@ -1,6 +1,6 @@
 ---
 slug: /roof-leak-inspection
-title: "Roof Leak Inspection Pittsburgh, PA | (412) 797-5703"
+title: "Roof Leak Inspection Pittsburgh, PA | Find the Entry Point"
 metaDescription: "Water stain or active leak? Get connected with a Pittsburgh roofing pro who traces the actual entry point. Free inspection — call (412) 797-5703."
 h1: "Roof Leak Inspection Pittsburgh, PA"
 primaryKeyword: "roof leak inspection pittsburgh"
