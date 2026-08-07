@@ -1,17 +1,21 @@
 ---
 slug: /contact
-title: "Contact Pittsburgh Roof Inspection | Free Local Connection"
-metaDescription: "Describe your Pittsburgh roof inspection need and get connected with an insured local roofing professional. Call or use the form for a free connection."
+title: "Contact Pittsburgh Roof Inspection | Free Inspection"
+metaDescription: "Request a free roof inspection in Pittsburgh. Tell us about the leak, storm concern, roof age, or timing and get connected with one insured local pro."
 h1: "Get Connected for a Pittsburgh Roof Inspection"
 ---
 
-**Fastest path: call the number above.** Tell us the property municipality, the reason for the inspection, and whether there is active water or recent storm damage.
+**Need someone to look at your roof? Call the number above for the fastest response.** Tell us where the property is, what you are seeing, and whether there is active water or recent storm damage.
 
-You can also use the form to request a connection. Include:
+Prefer to write? Use the free-inspection form on this page. Tell us:
 
-- Your name and best callback number.
-- Pittsburgh neighborhood or nearby municipality and ZIP code.
-- Whether the concern is a leak, storm damage, age, purchase, sale, or a second opinion.
-- Any timing issue, such as active water or a pending closing.
+- What changed: a ceiling stain, missing shingles, a leak after rain, wind or branch damage, or a roof that is simply getting old.
+- Where the property is: your Pittsburgh neighborhood or nearby municipality and ZIP code.
+- What matters about timing: active water, a recent storm, a pending closing, or a repair recommendation you want explained.
+- The best callback number and a good time to reach you.
 
-Pittsburgh Roof Inspection is a free referral service, not a roofing contractor. We do not perform inspections or repairs. The local contractor will confirm availability, inspection scope, price, and next steps. Referred contractors are insured; verify applicable Pennsylvania registration and insurance before hiring.
+Your details go to one local insured roofing professional, not a call list. No spam, no obligation. Expect a response within one business day, usually faster.
+
+Hours: Monday through Saturday, 7am to 6pm. Leave a message anytime and you will get a call back.
+
+Pittsburgh Roof Inspection connects you with the local professional; the inspection and any later roofing work are performed by that independent business.

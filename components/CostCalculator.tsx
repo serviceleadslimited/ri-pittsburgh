@@ -2,11 +2,10 @@
 
 import { useState } from "react";
 
-const RANGES = {
-  free: "$0",
-  independent: "$150–$400",
-  report: "$250–$600",
-  transaction: "$300–$750",
+const PAID_RANGES = {
+  independent: { easy: "$150–$300", complex: "$300–$400" },
+  report: { easy: "$250–$450", complex: "$450–$600" },
+  transaction: { easy: "$300–$500", complex: "$500–$750" },
 } as const;
 
 const PURPOSES = [
@@ -31,7 +30,8 @@ export default function CostCalculator() {
   const [purpose, setPurpose] = useState<Purpose>("free");
   const [access, setAccess] = useState<Access>("easy");
 
-  const range = RANGES[purpose];
+  const paidPurpose = purpose === "free" ? "independent" : purpose;
+  const range = PAID_RANGES[paidPurpose][access];
   const accessNote = access === "complex"
     ? "Steep pitches, multiple roof sections, height, attic access, or safety limits can change what an inspector can safely examine and what a paid report costs."
     : "Easy access can make it simpler for a professional to examine more of the roof, but the inspection scope should always be confirmed first.";
@@ -87,12 +87,17 @@ export default function CostCalculator() {
 
       <div aria-live="polite" className="mt-5 rounded-lg border border-amber-200 bg-amber-50 p-4">
         <p className="text-lg font-extrabold text-slate-900">
-          {isFreeInspection ? "Your starting cost: $0" : `Typical paid planning range: ${range}`}
+          {isFreeInspection ? "Your free inspection: $0" : `Typical paid planning range: ${range}`}
         </p>
+        {isFreeInspection && (
+          <p className="mt-2 text-sm font-bold text-slate-900">
+            Comparable paid independent inspection: {range}
+          </p>
+        )}
         <p className="mt-2 text-sm leading-relaxed text-slate-700">{accessNote}</p>
         <p className="mt-2 text-sm leading-relaxed text-slate-700">
           {isFreeInspection
-            ? "For a leak, storm concern, visible damage, or an aging roof, a free inspection is usually the practical first step. If work is needed, the roofing professional may explain repair or replacement options afterward; there is no obligation to hire."
+            ? `For a leak, storm concern, visible damage, or an aging roof, start with the free inspection. ${access === "complex" ? "A steep, high, or difficult-to-access roof can push a separate paid independent inspection toward the upper end because safe access and documentation take more time." : "On an easy-access, one-story roof, a separate paid independent inspection is more likely to stay near the lower end of its range."} If work is needed, the roofing professional may explain repair or replacement options afterward; there is no obligation to hire.`
             : "Our referral offer is a free contractor inspection, not a paid independent report. If a neutral opinion or formal documentation matters, ask the professional what report type and fee are appropriate before scheduling."}
         </p>
         <a href="#quote" className="mt-3 inline-block rounded-md bg-amber-500 px-5 py-3 text-base font-extrabold text-slate-900 hover:bg-amber-600">

@@ -23,11 +23,11 @@ This page compares those two paths so “free” is clear, not vague. We are a f
 | Inspection type | Planning range | What it usually means |
 | --- | ---: | --- |
 | Free roof inspection we arrange | $0 | A local roofing professional evaluates the roof concern, explains the findings, and discusses the next step. There is no obligation to hire. |
-| Independent condition check | $150–$400 | A paid assessment focused on the roof's current condition, without assuming you will buy repair work. |
-| Inspection with written report | $250–$600 | More documentation, labeled photographs, and written findings than a basic estimate visit. |
-| Purchase, sale, or claim documentation | $300–$750 | A more formal scope where the report must support a transaction, dispute, or insurance conversation. |
+| Independent condition check | $150–$300 easy access; $300–$400 difficult access | A paid assessment focused on the roof's current condition, without assuming you will buy repair work. |
+| Inspection with written report | $250–$450 easy access; $450–$600 difficult access | More documentation, labeled photographs, and written findings than a basic estimate visit. |
+| Purchase, sale, or claim documentation | $300–$500 easy access; $500–$750 difficult access | A more formal scope where the report must support a transaction, dispute, or insurance conversation. |
 
-These are planning ranges, not a guaranteed Pittsburgh price list. Roof size, height, pitch, material, attic access, moisture testing, drone or infrared work, travel, and report requirements can move the quote. Ask what is included before booking.
+These are planning ranges, not a guaranteed Pittsburgh price list. The lower end assumes a roof that can be examined from safe, straightforward access. Two-story height, steep pitch, multiple roof sections, limited access, attic limitations, moisture testing, drone or infrared work, travel, and report requirements can move a separate paid report toward the upper end. The free roof inspection we arrange remains $0; access changes what a paid independent or formal report may cost.
 
 ## Free roof inspection versus paid independent inspection
 
