@@ -56,6 +56,6 @@ Gather any prior invoices, inspection reports, insurance correspondence, and pho
 
 ## Get connected in Pittsburgh
 
-Use the form to describe the property, concern, roof age if known, and any recent storm or leak. Or call for the fastest connection. The local roofing professional will confirm the service area, inspection scope, availability, and whether there is a charge.
+Use the form to describe the property, concern, roof age if known, and any recent storm or leak. Or call for the fastest connection. The local roofing professional will confirm the service area, inspection scope, and availability for your free roof inspection.
 
 A roof inspection is information, not a commitment to buy a roof. Use the findings to decide whether you need an immediate repair, routine maintenance, a second opinion, or no work yet.

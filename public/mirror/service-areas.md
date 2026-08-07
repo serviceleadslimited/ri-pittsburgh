@@ -1,21 +1,33 @@
 ---
 slug: /service-areas
-title: "Pittsburgh Roof Inspection Service Areas | Allegheny County"
-metaDescription: "Roof inspection referrals across Pittsburgh and nearby Allegheny County communities. Tell us your municipality and ZIP code for local availability."
+title: "Roof Inspection Service Areas Pittsburgh, PA | Free Inspection"
+metaDescription: "Get a free roof inspection in Pittsburgh and across Allegheny County. Local roof-inspection help for the city, South Hills, North Hills, East End, and west suburbs."
 h1: "Pittsburgh Roof Inspection Service Areas"
 primaryKeyword: "roof inspection service areas pittsburgh"
 secondaryKeywords: []
 faqs:
   - q: "Do you serve outside Pittsburgh city limits?"
-    a: "Availability depends on the local contractor's normal route. Tell us the municipality and ZIP code and the contractor can confirm whether the address is covered."
+    a: "Yes. We connect homeowners throughout Pittsburgh and the surrounding Allegheny County communities with a local roofing professional for a free roof inspection. Give us your municipality and ZIP code when you request help."
 ---
 
-We connect homeowners with local roofing professionals serving Pittsburgh and nearby Allegheny County communities. Coverage depends on the contractor's route, roof type, and availability, so provide the municipality and ZIP code when you call or use the form.
+Pittsburgh Roof Inspection connects homeowners across the city and greater Allegheny County with an insured local roofing professional for a **free roof inspection**. Pittsburgh’s rain, snow, ice, wind, mature tree cover, hills, and mix of older and newer homes make roof details matter.
 
-Common service-area requests include Pittsburgh, Mt. Lebanon, Bethel Park, Upper St. Clair, Ross Township, McCandless, Monroeville, Penn Hills, Wilkinsburg, Dormont, Brentwood, Carnegie, Robinson Township, and nearby communities.
+## Pittsburgh and East End roof inspection
 
-The referral service is not the contractor and does not perform inspections. Referred contractors are insured; verify registration, insurance, scope, and references before hiring.
+Pittsburgh, Wilkinsburg, Swissvale, Edgewood, Penn Hills, Monroeville, Plum, and Verona homeowners can request a free inspection for leaks, storm damage, aging shingles, roof-to-wall flashing concerns, and purchase questions. Hillside homes, brick construction, dormers, older transitions, and tree cover make a closer inspection more useful than a driveway view.
 
-## Request availability
+## South Hills roof inspection
 
-Tell us the property location, whether the concern is a leak, storm damage, age, or a purchase, and how quickly you need help. The local professional will confirm whether the address is within the normal service area and explain the inspection options.
+Mt. Lebanon, Bethel Park, Upper St. Clair, Dormont, Baldwin, Brentwood, Whitehall, South Park, and West Mifflin are within the Pittsburgh service area. A free inspection is a practical first step after wind, snow, a branch impact, gutter overflow, or a new water mark; ask for findings and photos before authorizing work.
+
+## North Hills roof inspection
+
+Ross Township, McCandless, Shaler, Hampton, West View, Bellevue, Wexford, and nearby North Hills communities can request a local free roof inspection. Roof age, multiple roof planes, chimneys, skylights, flashing, valleys, gutters, and accessible attic evidence all matter when a roof starts showing wear or a storm raises concern.
+
+## West suburbs roof inspection
+
+Robinson Township, Moon Township, Carnegie, Crafton, and Oakdale homeowners can start with a free inspection when a leak, storm concern, prior repair, or replacement recommendation needs a clear explanation. The roofing professional should distinguish urgent findings, maintenance items, and choices that can wait.
+
+## Request a free roof inspection
+
+Call or use the form with your municipality, ZIP code, roof concern, and the best way to reach you. We will connect you with an insured local roofing professional for a free roof inspection. Pittsburgh Roof Inspection is a referral service, not the contractor; verify business identity, applicable Pennsylvania registration, insurance, scope, and references before hiring.

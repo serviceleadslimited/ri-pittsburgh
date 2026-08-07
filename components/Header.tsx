@@ -15,7 +15,7 @@ function UtilityBar() {
     <div className="hidden bg-slate-900 text-slate-300 lg:block">
       <div className="mx-auto flex h-9 max-w-6xl items-center justify-between px-4 text-xs font-semibold">
         <div className="flex items-center gap-5">
-          <span>Transparent pricing</span>
+          <span>Free roof inspections</span>
           <span>One local pro — not a call list</span>
           <span>Insured professionals</span>
         </div>
@@ -102,7 +102,7 @@ export default function Header() {
               href="#quote"
               className="hidden whitespace-nowrap rounded-md bg-amber-500 px-4 py-2 text-sm font-bold text-slate-900 hover:bg-amber-600 md:block"
             >
-              Free Estimate
+              Get Free Inspection
             </a>
             <MobileNav />
           </div>

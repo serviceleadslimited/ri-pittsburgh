@@ -19,7 +19,7 @@ const LEGAL_SLUGS = ["/privacy", "/terms"];
 // Pill badges in the hero, above the CTA buttons (every non-legal page).
 // Same claims as the TrustBadges strip — no licensed/certification wording.
 const HERO_TRUST = [
-  { icon: IconCalendar, label: "Free estimate" },
+  { icon: IconCalendar, label: "Free roof inspection" },
   { icon: IconShieldCheck, label: "Insured local pro" },
   { icon: IconCheck, label: "No obligation" },
 ];
@@ -87,7 +87,7 @@ export default function PageTemplate({ page }: { page: PageContent }) {
                   href="#quote"
                   className="rounded-md border-2 border-white px-6 py-3 text-base font-extrabold text-white hover:bg-white hover:text-slate-900"
                 >
-                  Free Estimate
+                  Get Free Inspection
                 </a>
               </div>
             )}
@@ -143,7 +143,7 @@ export default function PageTemplate({ page }: { page: PageContent }) {
                 href="#quote"
                 className="rounded-md bg-amber-500 px-6 py-3.5 text-base font-extrabold text-slate-900 hover:bg-amber-600"
               >
-                Free Inspection
+                Get Free Inspection
               </a>
               <a
                 href={PHONE_HREF}

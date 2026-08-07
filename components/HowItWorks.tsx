@@ -10,8 +10,8 @@ const STEPS = [
     text: "Your request goes to one independent roofing professional serving the Pittsburgh area — not a call list.",
   },
   {
-    title: "A free estimate, no obligation",
-    text: "The contractor explains the inspection scope, findings, and next step. No obligation to hire.",
+    title: "A free inspection, no obligation",
+    text: "The roofing professional inspects the concern, explains the findings, and outlines the next step. No obligation to hire.",
   },
 ];
 

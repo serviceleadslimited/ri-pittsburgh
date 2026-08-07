@@ -63,7 +63,7 @@ export default function Image() {
             marginTop: 24,
           }}
         >
-          Free Estimate · Insured Local Contractor
+          Free Roof Inspection · Insured Local Pro
         </div>
       </div>
     ),

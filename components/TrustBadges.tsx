@@ -8,8 +8,8 @@ const STATS = [
   },
   {
     icon: IconCalendar,
-    title: "Transparent Pricing",
-    subtext: "Real ranges published up front, no guessing games",
+    title: "Free Roof Inspection",
+    subtext: "No-cost inspection, no obligation to hire",
   },
   {
     icon: IconCheck,

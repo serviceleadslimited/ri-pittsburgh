@@ -13,7 +13,7 @@ export default function MobileCallBar() {
         href="#quote"
         className="bg-slate-900 py-3.5 text-center text-sm font-extrabold text-white"
       >
-        Free Estimate
+        Get Free Inspection
       </a>
     </div>
   );

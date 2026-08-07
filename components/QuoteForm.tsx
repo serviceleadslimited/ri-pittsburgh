@@ -151,8 +151,8 @@ export default function QuoteForm() {
           Request received — thank you!
         </h2>
         <p className="mt-2 text-slate-700">
-          An insured local contractor will reach out shortly with your free
-          estimate. Need it sooner? Call{" "}
+          An insured local roofing professional will reach out shortly to
+          arrange your free inspection. Need it sooner? Call{" "}
           <a href={PHONE_HREF} className="font-bold text-teal-700 underline">
             {PHONE_DISPLAY}
           </a>
@@ -169,7 +169,7 @@ export default function QuoteForm() {
       {...FORM_TOOL_ATTRS}
     >
       <h2 className="text-xl font-extrabold tracking-tight text-slate-900">
-        Get Your Free Estimate
+        Get Your Free Inspection
       </h2>
       <p className="mt-1 text-sm text-slate-600">
         Tell us what&rsquo;s going on — or call{" "}
@@ -282,7 +282,7 @@ export default function QuoteForm() {
           <a href={PHONE_HREF} className="underline">
             {PHONE_DISPLAY}
           </a>{" "}
-          instead — the estimate is still free.
+          instead — the inspection is still free.
         </p>
       )}
 
@@ -291,7 +291,7 @@ export default function QuoteForm() {
         disabled={status === "submitting"}
         className="mt-5 w-full rounded-md bg-amber-500 px-6 py-3.5 text-base font-extrabold text-slate-900 hover:bg-amber-600 disabled:opacity-60 sm:w-auto"
       >
-        {status === "submitting" ? "Sending…" : "Get My Free Estimate"}
+        {status === "submitting" ? "Sending…" : "Request My Free Inspection"}
       </button>
       <p className="mt-3 text-sm text-slate-600">
         Your details go to one local pro — no spam, no obligation.

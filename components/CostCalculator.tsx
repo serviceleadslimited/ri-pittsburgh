@@ -3,17 +3,17 @@
 import { useState } from "react";
 
 const RANGES = {
-  contractor: "$0",
-  standard: "$150–$400",
+  free: "$0",
+  independent: "$150–$400",
   report: "$250–$600",
   transaction: "$300–$750",
 } as const;
 
 const PURPOSES = [
-  { value: "contractor", label: "Free contractor inspection" },
-  { value: "standard", label: "Independent condition check" },
-  { value: "report", label: "Inspection with written report" },
-  { value: "transaction", label: "Purchase, sale, or claim documentation" },
+  { value: "free", label: "I need a free roof inspection for a concern" },
+  { value: "independent", label: "I need an independent condition opinion" },
+  { value: "report", label: "I need a detailed written report" },
+  { value: "transaction", label: "I need documentation for a sale, purchase, or dispute" },
 ] as const;
 
 const ACCESS = [
@@ -28,14 +28,15 @@ const selectClass =
   "mt-1 w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 text-slate-900 focus:border-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-700/30";
 
 export default function CostCalculator() {
-  const [purpose, setPurpose] = useState<Purpose>("contractor");
+  const [purpose, setPurpose] = useState<Purpose>("free");
   const [access, setAccess] = useState<Access>("easy");
 
   const range = RANGES[purpose];
-  const accessNote =
-    access === "complex"
-      ? "Steep pitches, multiple roof sections, height, attic access, or safety equipment can move a quote above the planning range."
-      : "Easy access usually keeps the inspection closer to the lower end of its planning range."
+  const accessNote = access === "complex"
+    ? "Steep pitches, multiple roof sections, height, attic access, or safety limits can change what an inspector can safely examine and what a paid report costs."
+    : "Easy access can make it simpler for a professional to examine more of the roof, but the inspection scope should always be confirmed first.";
+
+  const isFreeInspection = purpose === "free";
 
   return (
     <section
@@ -43,17 +44,18 @@ export default function CostCalculator() {
       className="mt-10 rounded-xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6"
     >
       <h2 className="text-xl font-extrabold tracking-tight text-slate-900">
-        Quick Roof Inspection Cost Estimator
+        Is a Free Roof Inspection the Right First Step?
       </h2>
       <p className="mt-1 text-sm text-slate-600">
-        Choose the type of inspection you need. These are planning ranges from
-        the table above, not a quote.
+        Start with why you need someone to look at the roof. We offer the
+        no-cost contractor inspection path; the paid ranges below are for the
+        separate cases where an independent or formal report may be necessary.
       </p>
 
       <div className="mt-4 grid gap-4 sm:grid-cols-2">
         <div>
           <label htmlFor="calc-purpose" className="text-sm font-semibold text-slate-800">
-            What is the inspection for?
+            What do you need from the inspection?
           </label>
           <select
             id="calc-purpose"
@@ -84,13 +86,17 @@ export default function CostCalculator() {
       </div>
 
       <div aria-live="polite" className="mt-5 rounded-lg border border-amber-200 bg-amber-50 p-4">
-        <p className="text-lg font-extrabold text-slate-900">Typical planning range: {range}</p>
+        <p className="text-lg font-extrabold text-slate-900">
+          {isFreeInspection ? "Your starting cost: $0" : `Typical paid planning range: ${range}`}
+        </p>
         <p className="mt-2 text-sm leading-relaxed text-slate-700">{accessNote}</p>
         <p className="mt-2 text-sm leading-relaxed text-slate-700">
-          A contractor may waive the inspection fee when preparing a repair or replacement estimate. Independent or transaction-related documentation is more likely to carry a separate fee.
+          {isFreeInspection
+            ? "For a leak, storm concern, visible damage, or an aging roof, a free inspection is usually the practical first step. If work is needed, the roofing professional may explain repair or replacement options afterward; there is no obligation to hire."
+            : "Our referral offer is a free contractor inspection, not a paid independent report. If a neutral opinion or formal documentation matters, ask the professional what report type and fee are appropriate before scheduling."}
         </p>
         <a href="#quote" className="mt-3 inline-block rounded-md bg-amber-500 px-5 py-3 text-base font-extrabold text-slate-900 hover:bg-amber-600">
-          Get My Free Inspection
+          Get Free Inspection
         </a>
       </div>
     </section>

@@ -107,7 +107,7 @@ export async function POST(req: Request) {
       "Project details:",
       details || "(not provided)",
       "",
-      `Source: ${SITE_NAME} quote form`,
+      `Source: ${SITE_NAME} free inspection request`,
     ].join("\n"),
   });
 

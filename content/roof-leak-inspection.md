@@ -67,6 +67,6 @@ For an insurance claim, keep photographs, invoices, inspection reports, and date
 
 ## Request a Pittsburgh leak inspection
 
-Use the form to describe the room, the weather that triggers the leak, the roof material if known, and whether there is active water now. Call for the fastest connection. The local roofing professional will confirm availability, the likely inspection scope, and whether the visit is free or paid.
+Use the form to describe the room, the weather that triggers the leak, the roof material if known, and whether there is active water now. Call for the fastest connection. The local roofing professional will confirm availability and the likely scope of your free roof leak inspection.
 
 Finding the source early can prevent a small roof opening from becoming a larger interior repair. If the first explanation does not fit the evidence, get a second opinion before authorizing a full replacement.

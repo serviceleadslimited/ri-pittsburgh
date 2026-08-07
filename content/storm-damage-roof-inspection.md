@@ -54,6 +54,6 @@ The Pittsburgh region can see wind-driven rain, snow, ice, freeze-thaw movement,
 
 ## Request a local storm inspection
 
-Tell us the storm date, what you saw from the ground, whether there is active water, and the property's municipality. Call for the fastest connection or use the form. The local roofing professional will confirm availability and explain whether the initial inspection is free or paid.
+Tell us the storm date, what you saw from the ground, whether there is active water, and the property's municipality. Call for the fastest connection or use the form. The local roofing professional will confirm availability and arrange your free storm-damage roof inspection.
 
 You are buying information first, not committing to a replacement. Compare the evidence, ask questions, and get another opinion when the recommendation is unclear.
