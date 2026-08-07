@@ -1,13 +1,15 @@
 ---
 slug: /contact
-title: "Contact Pittsburgh Roof Inspection | Free Inspection"
+title: "Contact Our Pittsburgh Roofing Referral Service"
 metaDescription: "Request a free roof inspection in Pittsburgh. Tell us about the leak, storm concern, roof age, or timing and get connected with one insured local pro."
-h1: "Get Connected for a Pittsburgh Roof Inspection"
+h1: "Get Connected With a Local Pittsburgh Roofer"
 ---
 
 **Need someone to look at your roof? Call the number above for the fastest response.** Tell us where the property is and whether there is active water or recent storm damage.
 
 Or use the free-inspection form. Your details go to one local insured roofing professional—not a call list. No spam, no obligation.
+
+For the general service, inspection scope, and next-step guidance, visit [Pittsburgh Roof Inspection](/). If you need formal documentation for a purchase, sale, dispute, or insurance question, the [roof inspection cost guide](/roof-inspection-cost) explains the different inspection paths.
 
 ## To help us connect you quickly
 

@@ -16,6 +16,8 @@ faqs:
 
 Wind, hail, heavy rain, snow, and falling branches can leave roof damage that is easy to miss from the ground. A Pittsburgh storm-damage roof inspection gives you a dated record of what was observed, photographs where practical, and a clearer decision about temporary protection, repair, or further evaluation.
 
+For the broader inspection path and a free connection with a local professional, start at [Pittsburgh Roof Inspection](/). The [roof inspection cost guide](/roof-inspection-cost) explains when a paid independent report may make more sense than a contractor-provided visit.
+
 ## Damage that may not be obvious
 
 After a storm, look from the ground for missing or lifted shingles, bruised or cracked material, exposed underlayment, damaged flashing, fallen limbs, bent gutters, and debris. Hail can leave small impact marks or granule loss without creating an immediate leak. Wind can loosen a roof edge or flashing joint that fails during a later rain.

@@ -16,6 +16,8 @@ faqs:
 
 A roof leak is a water-path problem, not always a stain-location problem. Water can enter at a chimney, valley, vent, skylight, or roof-to-wall transition, then travel before it reaches a ceiling or wall. A Pittsburgh roof leak inspection is designed to find the likely entry point, document related damage, and separate an urgent repair from a larger replacement recommendation.
 
+For the broader inspection path and a free connection with a local professional, start at [Pittsburgh Roof Inspection](/). If you need to compare a free contractor visit with a paid written report, see the [roof inspection cost guide](/roof-inspection-cost).
+
 ## Common signs of a roof leak
 
 Call promptly when you notice:

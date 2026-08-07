@@ -1,14 +1,24 @@
 import Link from "next/link";
 import {
+  IconAlertCircle,
   IconCalculator,
   IconCheck,
-  IconShieldCheck,
+  IconDroplet,
   IconWrench,
 } from "./icons";
 import SectionHeading from "./SectionHeading";
 
 const TILES = [
-  { label: "Roof Inspection", href: "/roof-inspection", icon: IconShieldCheck },
+  {
+    label: "Roof Leak Inspection",
+    href: "/roof-leak-inspection",
+    icon: IconDroplet,
+  },
+  {
+    label: "Storm Damage Inspection",
+    href: "/storm-damage-roof-inspection",
+    icon: IconAlertCircle,
+  },
   {
     label: "Cost Guide",
     href: "/roof-inspection-cost",

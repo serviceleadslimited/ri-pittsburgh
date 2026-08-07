@@ -1,8 +1,8 @@
 ---
 slug: /about
-title: "About Pittsburgh Roof Inspection | Local Referral Service"
+title: "About Our Pittsburgh Roofing Referral Service"
 metaDescription: "Pittsburgh Roof Inspection is a free referral service connecting homeowners with an insured local roofing professional for a free roof inspection."
-h1: "About Pittsburgh Roof Inspection"
+h1: "About Our Pittsburgh Roofing Referral Service"
 ---
 
 Need a clearer next step for a leak, storm concern, ceiling stain, or aging roof? Pittsburgh Roof Inspection makes it simple to request a **free roof inspection** from one local insured roofing professional.

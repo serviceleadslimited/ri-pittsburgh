@@ -51,7 +51,6 @@ export const CITIES: { name: string; state: "PA" }[] = [
 ];
 
 export const SERVICES = [
-  { label: "Roof Inspection", href: "/roof-inspection" },
   { label: "Roof Leak Inspection", href: "/roof-leak-inspection" },
   { label: "Storm Damage Inspection", href: "/storm-damage-roof-inspection" },
 ];

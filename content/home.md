@@ -12,6 +12,12 @@ faqs:
     a: "The roof inspection we arrange is free and has no obligation to hire. A separate independent written report for a sale, purchase, or dispute may cost more because it is a different service."
   - q: "What does a roof inspection look for?"
     a: "An inspector checks the roof covering, flashing, valleys, penetrations, gutters, drainage, visible attic or interior evidence, and signs of storm or leak damage. The goal is to explain what needs attention and what can wait."
+  - q: "How long does a roof inspection take?"
+    a: "Many residential inspections take about one to two hours, but roof size, pitch, access, attic conditions, and the amount of documentation can change the timing. Ask what the visit includes when you book."
+  - q: "Will I receive a written roof inspection report?"
+    a: "Ask the contractor before scheduling. A useful report or estimate should identify the observed issue, include photographs where practical, and separate urgent repairs from maintenance or future planning."
+  - q: "Can a roof inspection find a leak?"
+    a: "An inspection can often identify likely entry points and related damage, but water may travel before it appears indoors. Leak tracing may require attic review, moisture testing, or a follow-up repair visit."
 ---
 
 A roof can look fine from the driveway and still have failed flashing, loose shingles, hidden storm damage, or a leak that is traveling well away from the ceiling stain. A Pittsburgh roof inspection gives you a clear starting point before you approve a repair, file an insurance claim, buy or sell a home, or simply keep guessing.
@@ -29,6 +35,10 @@ A useful inspection is more than a glance from the sidewalk. The exact scope dep
 
 Pittsburgh weather makes the details matter. Freeze-thaw cycles, wind-driven rain, snow, ice dams, moss, and long periods of dampness can expose weak flashing or shorten the life of aging materials. That does not mean every old roof needs replacement. A good inspection should tell you when a repair is reasonable and when continued patching is only postponing a larger problem.
 
+Roof age is useful context, not a diagnosis. A well-maintained roof may remain serviceable, while a newer roof can still have a flashing or installation failure. Chimneys, skylights, vent boots, valleys, wall transitions, roof edges, gutters, and accessible attic ventilation all deserve attention because water and moisture problems often begin at those changes in the roof system.
+
+For a ceiling stain or water that appears after rain, start with a [roof leak inspection](/roof-leak-inspection). After wind, hail, or a fallen branch, use a [storm damage roof inspection](/storm-damage-roof-inspection). Our [roof inspection cost guide](/roof-inspection-cost) explains the difference between the free contractor visit and a paid formal report; see [service areas](/service-areas) for Pittsburgh-area coverage or the [local directory](/directory) when you want to compare public options.
+
 ## How the referral works
 
 Our free referral service connects Pittsburgh homeowners with an independent local roofing professional for a **free roof inspection**. **We are not the contractor and do not inspect roofs ourselves.** The contractor we refer is insured and should explain the inspection scope, findings, photos, and next step before you commit to work.
@@ -45,6 +55,10 @@ You do not have to wait for a dramatic ceiling stain. Consider an inspection whe
 6. The roof is old enough that maintenance has become a series of guesses rather than a plan.
 
 Do not climb onto a wet, steep, or visibly damaged roof to investigate it yourself. From the ground, take photos only when it is safe, then describe what changed when you call.
+
+## Before an inspection
+
+Gather any earlier invoices, reports, insurance correspondence, and photos of the issue. Note which room shows a stain, when it appeared, and what weather preceded it. Before scheduling, ask what the professional will physically inspect, whether the roof will be walked when safe, whether attic or interior evidence is included, and what photographs or written scope you will receive.
 
 ## Inspection versus a roofing estimate
 

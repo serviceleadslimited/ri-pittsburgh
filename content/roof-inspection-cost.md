@@ -14,7 +14,9 @@ faqs:
     a: "A free contractor inspection is a way to identify the roof's condition and next step. If work is needed, the contractor may provide a repair or replacement estimate afterward. Ask about photographs, repair alternatives, and whether there is any obligation to hire."
 ---
 
-The short answer is simple: **the roof inspection we arrange for Pittsburgh homeowners is free.** It is the practical starting point for a leak, storm concern, visible damage, an aging roof, or uncertainty about what happens next. A separate independent written inspection for a real-estate transaction, dispute, or formal documentation may be paid because it is a different service.
+The short answer is simple: **the roof inspection cost we arrange for Pittsburgh homeowners is $0.** It is the practical starting point for a leak, storm concern, visible damage, an aging roof, or uncertainty about what happens next. A separate independent written inspection for a real-estate transaction, dispute, or formal documentation may be paid because it is a different service.
+
+For a general condition visit and help deciding what comes next, start with a [Pittsburgh roof inspection](/). If the concern is water after rain or recent storm damage, the [roof leak inspection](/roof-leak-inspection) and [storm damage inspection](/storm-damage-roof-inspection) pages explain those more specific situations.
 
 ## Pittsburgh roof inspection planning ranges
 

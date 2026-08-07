@@ -1,10 +1,10 @@
 ---
 slug: /directory
-title: "Pittsburgh Roof Inspection Directory | Local Roofing Companies"
+title: "Pittsburgh Roofing Company Directory | Compare Local Options"
 metaDescription: "A practical Pittsburgh roof inspection directory with local roofing companies, official contact details, inspection services, and questions to ask before booking."
-h1: "Pittsburgh Roof Inspection Directory"
-primaryKeyword: "pittsburgh roof inspection contractors"
-secondaryKeywords: ["pittsburgh roofing companies", "roof inspectors near pittsburgh", "pittsburgh roof inspection directory"]
+h1: "Pittsburgh Roofing Company Directory"
+primaryKeyword: "pittsburgh roofing companies directory"
+secondaryKeywords: ["pittsburgh roofing companies", "roofing company directory pittsburgh", "compare pittsburgh roofers"]
 faqs:
   - q: "How were these Pittsburgh roofing companies selected?"
     a: "These are local companies with public Pittsburgh-area roof-inspection pages and contact information on their own websites. A listing is not a rating, recommendation, availability guarantee, or certification by Pittsburgh Roof Inspection."
@@ -13,6 +13,8 @@ faqs:
 ---
 
 Below are Pittsburgh-area roofing companies with public roof-inspection information. Use the details to contact a company directly, compare what each inspection includes, and ask questions before authorizing any work.
+
+If you want a single local connection instead of comparing companies yourself, start with [Pittsburgh Roof Inspection](/). For the difference between a free contractor visit and a paid written report, use the [roof inspection cost guide](/roof-inspection-cost).
 
 ## Pittsburgh-area roof inspection companies
 
