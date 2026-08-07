@@ -1,6 +1,6 @@
 // Single source of truth for site identity. Future niche-city sites: edit this file.
 
-export const SITE_NAME = "Pittsburgh Roof Inspection";
+export const SITE_NAME = "Roof Inspection Pittsburgh";
 export const SITE_URL = "https://roofinspectionpittsburgh.com";
 
 export const PHONE_DISPLAY = "(412) 797-5703";
