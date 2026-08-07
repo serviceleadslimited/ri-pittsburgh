@@ -16,8 +16,6 @@ faqs:
 
 A Pittsburgh roof inspection should answer a simple question: **what condition is the roof actually in, and what should happen next?** That answer is more useful than a generic replacement pitch or a quick look from the ground.
 
-This page connects homeowners with an independent local roofing professional. The referral service is not the inspector and does not perform roofing work. Referred contractors are insured, but you should confirm the contractor's business identity, Pennsylvania registration where applicable, insurance, written scope, and references before hiring.
-
 ## What the inspection covers
 
 The contractor starts with the roof covering and follows the water-shedding system through the places most likely to fail. Depending on the property, that can include:
@@ -49,6 +47,10 @@ If you have an older home, tell the inspector about previous repairs, additions,
 A free contractor inspection is common when the contractor is estimating a repair or replacement. It can be a practical first step, especially when the visit includes photos and a written scope. An independent inspection may be worth paying for when you need a neutral opinion for a purchase, sale, insurance disagreement, or dispute with a previous contractor.
 
 The important distinction is not the price by itself. Ask what the inspector will physically examine, whether the roof will be walked when safe, whether attic or interior evidence is included, what documentation you receive, and whether the recommendation includes a repair option. If a report says replacement is necessary, ask what specific observed conditions make repair unreasonable.
+
+## How the referral works
+
+This page connects homeowners with an independent local roofing professional. The referral service is not the inspector and does not perform roofing work. Referred contractors are insured, but you should confirm the contractor's business identity, Pennsylvania registration where applicable, insurance, written scope, and references before hiring.
 
 ## Before the appointment
 

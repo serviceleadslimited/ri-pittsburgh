@@ -16,8 +16,6 @@ faqs:
 
 The short answer is simple: **the roof inspection we arrange for Pittsburgh homeowners is free.** It is the practical starting point for a leak, storm concern, visible damage, an aging roof, or uncertainty about what happens next. A separate independent written inspection for a real-estate transaction, dispute, or formal documentation may be paid because it is a different service.
 
-This page compares those two paths so “free” is clear, not vague. We are a free referral service, not the contractor. We connect you with an independent local roofing professional for a free roof inspection; if repair work is recommended, that professional can explain any later repair or replacement pricing separately.
-
 ## Pittsburgh roof inspection planning ranges
 
 | Inspection type | Planning range | What it usually means |
@@ -28,6 +26,10 @@ This page compares those two paths so “free” is clear, not vague. We are a f
 | Purchase, sale, or claim documentation | $300–$500 easy access; $500–$750 difficult access | A more formal scope where the report must support a transaction, dispute, or insurance conversation. |
 
 These are planning ranges, not a guaranteed Pittsburgh price list. The lower end assumes a roof that can be examined from safe, straightforward access. Two-story height, steep pitch, multiple roof sections, limited access, attic limitations, moisture testing, drone or infrared work, travel, and report requirements can move a separate paid report toward the upper end. The free roof inspection we arrange remains $0; access changes what a paid independent or formal report may cost.
+
+## How the free referral works
+
+This page compares those two paths so “free” is clear, not vague. We are a free referral service, not the contractor. We connect you with an independent local roofing professional for a free roof inspection; if repair work is recommended, that professional can explain any later repair or replacement pricing separately.
 
 ## Free roof inspection versus paid independent inspection
 

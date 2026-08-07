@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import {
   AREA_NAV,
@@ -28,6 +30,14 @@ function UtilityBar() {
 }
 
 export default function Header() {
+  const closeDropdowns = () => {
+    document
+      .querySelectorAll<HTMLDetailsElement>('details[name="site-nav-dropdown"]')
+      .forEach((dropdown) => {
+        dropdown.open = false;
+      });
+  };
+
   return (
     <>
       <UtilityBar />
@@ -45,6 +55,7 @@ export default function Header() {
           <nav
             aria-label="Main"
             className="hidden items-center gap-5 text-sm font-semibold text-slate-700 lg:flex"
+            onClick={closeDropdowns}
           >
             <details className="group relative" name="site-nav-dropdown">
               <summary className="flex cursor-pointer items-center gap-1 py-2 hover:text-teal-700">

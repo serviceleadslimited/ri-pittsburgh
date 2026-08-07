@@ -16,8 +16,6 @@ faqs:
 
 Wind, hail, heavy rain, snow, and falling branches can leave roof damage that is easy to miss from the ground. A Pittsburgh storm-damage roof inspection gives you a dated record of what was observed, photographs where practical, and a clearer decision about temporary protection, repair, or further evaluation.
 
-This site connects homeowners with an independent local roofing professional. We are not the contractor, do not perform inspections, and do not decide insurance claims. Referred contractors are insured; verify the contractor's business, Pennsylvania registration where applicable, insurance, and written scope before authorizing work.
-
 ## Damage that may not be obvious
 
 After a storm, look from the ground for missing or lifted shingles, bruised or cracked material, exposed underlayment, damaged flashing, fallen limbs, bent gutters, and debris. Hail can leave small impact marks or granule loss without creating an immediate leak. Wind can loosen a roof edge or flashing joint that fails during a later rain.
@@ -43,6 +41,10 @@ If you intend to contact your insurer, keep the storm date, photographs, inspect
 Be cautious of door-to-door pressure immediately after a storm. Ask for a local business address, proof of insurance, Pennsylvania registration information where applicable, references, and a written scope. Do not sign an assignment of benefits or authorize a full replacement because someone says the damage is urgent without showing you what they found.
 
 A storm inspection should not promise that an insurer will pay, that a roof qualifies for replacement, or that a claim will be approved. It should give you usable evidence and a reasonable next step.
+
+## How the referral works
+
+This site connects homeowners with an independent local roofing professional. We are not the contractor, do not perform inspections, and do not decide insurance claims. Referred contractors are insured; verify the contractor's business, Pennsylvania registration where applicable, insurance, and written scope before authorizing work.
 
 ## Temporary protection
 

@@ -16,8 +16,6 @@ faqs:
 
 A roof can look fine from the driveway and still have failed flashing, loose shingles, hidden storm damage, or a leak that is traveling well away from the ceiling stain. A Pittsburgh roof inspection gives you a clear starting point before you approve a repair, file an insurance claim, buy or sell a home, or simply keep guessing.
 
-Our free referral service connects Pittsburgh homeowners with an independent local roofing professional for a **free roof inspection**. **We are not the contractor and do not inspect roofs ourselves.** The contractor we refer is insured and should explain the inspection scope, findings, photos, and next step before you commit to work.
-
 ## What a Pittsburgh roof inspection should cover
 
 A useful inspection is more than a glance from the sidewalk. The exact scope depends on the roof and the contractor, but a thorough visit should consider:
@@ -30,6 +28,10 @@ A useful inspection is more than a glance from the sidewalk. The exact scope dep
 - Repairs that were attempted before, because a patch around the wrong entry point can leave the real leak untouched.
 
 Pittsburgh weather makes the details matter. Freeze-thaw cycles, wind-driven rain, snow, ice dams, moss, and long periods of dampness can expose weak flashing or shorten the life of aging materials. That does not mean every old roof needs replacement. A good inspection should tell you when a repair is reasonable and when continued patching is only postponing a larger problem.
+
+## How the referral works
+
+Our free referral service connects Pittsburgh homeowners with an independent local roofing professional for a **free roof inspection**. **We are not the contractor and do not inspect roofs ourselves.** The contractor we refer is insured and should explain the inspection scope, findings, photos, and next step before you commit to work.
 
 ## When to schedule an inspection
 

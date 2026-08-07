@@ -16,8 +16,6 @@ faqs:
 
 A roof leak is a water-path problem, not always a stain-location problem. Water can enter at a chimney, valley, vent, skylight, or roof-to-wall transition, then travel before it reaches a ceiling or wall. A Pittsburgh roof leak inspection is designed to find the likely entry point, document related damage, and separate an urgent repair from a larger replacement recommendation.
 
-We are a free referral service, not a roofing contractor. We connect Pittsburgh homeowners with an independent local roofing professional. Referred contractors are insured; confirm the contractor's identity, Pennsylvania registration where applicable, insurance, and written scope before hiring.
-
 ## Common signs of a roof leak
 
 Call promptly when you notice:
@@ -30,6 +28,10 @@ Call promptly when you notice:
 - A leak that appears only during wind-driven rain or snow melt.
 
 Do not assume a dry ceiling means the roof is fixed. The roof may be leaking only under a particular wind direction, or the interior materials may still be drying from an earlier event.
+
+## How the referral works
+
+We are a free referral service, not a roofing contractor. We connect Pittsburgh homeowners with an independent local roofing professional. Referred contractors are insured; confirm the contractor's identity, Pennsylvania registration where applicable, insurance, and written scope before hiring.
 
 ## How leak tracing works
 

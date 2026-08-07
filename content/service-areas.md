@@ -14,6 +14,8 @@ faqs:
 
 Pittsburgh Roof Inspection connects homeowners across the city and greater Allegheny County with an insured local roofing professional for a **free roof inspection**. Whether you have a ceiling stain after rain, missing shingles after wind, a roof nearing the end of its life, or a question before buying a home, start with a clear look at the roof and straightforward findings.
 
+## How Pittsburgh conditions affect a roof
+
 The Pittsburgh region’s rain, snow, ice, wind, mature tree cover, hills, and mix of older and newer homes make roof details matter. A small flashing problem can stay hidden until wind-driven rain finds it; snow and freeze-thaw cycles can expose a weak roof edge, valley, chimney transition, or vent boot. The communities below are where we help homeowners request a local roof inspection.
 
 ## Pittsburgh roof inspection
