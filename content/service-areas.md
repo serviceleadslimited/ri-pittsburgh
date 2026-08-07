@@ -20,9 +20,9 @@ faqs:
 
 We connect homeowners across Pittsburgh and Allegheny County with one insured local roofing professional for a **free roof inspection**. Ceiling stain after Tuesday's rain, shingles in the yard after a windstorm, a roof that's just plain old, or a question you need answered before closing on a house — the starting point is the same. Somebody competent looks at it and tells you what's actually going on.
 
-Start at [Pittsburgh Roof Inspection](/) for the main service. If you're weighing a free contractor visit against a paid written report — for a sale, a purchase, or a dispute — the [roof inspection cost guide](/roof-inspection-cost) explains which one your situation calls for.
-
 ## Why location matters more here than in most cities
+
+Start at [Pittsburgh Roof Inspection](/) for the main service. If you're weighing a free contractor visit against a paid written report — for a sale, a purchase, or a dispute — the [roof inspection cost guide](/roof-inspection-cost) explains which one your situation calls for.
 
 Allegheny County is 130 separate municipalities packed into 730 square miles, and the housing changes character every few miles. A 1925 brick foursquare in Dormont, a hillside house in Troy Hill with a roof you can practically step onto from the street above it, and a 2005 colonial in Cranberry are three genuinely different roofing problems. Access, pitch, material, and drainage all shift.
 

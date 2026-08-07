@@ -20,9 +20,9 @@ faqs:
 
 Wind, hail, and falling limbs do damage you cannot see from the ground. That's not a sales line, it's geometry — the slope facing away from your street is invisible from your street, and hail bruising doesn't announce itself at all. A Pittsburgh storm damage roof inspection gets you a dated record of what's up there, photos where they can be taken, and a real answer about whether you're looking at a tarp, a repair, or a claim.
 
-Start at [Pittsburgh Roof Inspection](/) for the general service. The [roof inspection cost guide](/roof-inspection-cost) covers when a paid independent report beats a contractor visit — which, in a contested claim, it sometimes does.
-
 ## What to look for from the ground
+
+Start at [Pittsburgh Roof Inspection](/) for the general service. The [roof inspection cost guide](/roof-inspection-cost) covers when a paid independent report beats a contractor visit — which, in a contested claim, it sometimes does.
 
 Missing or lifted shingles. Exposed underlayment. Bent or torn flashing. Branches down. Bent gutters. Granules washed into the downspout splash. Debris in the valleys.
 

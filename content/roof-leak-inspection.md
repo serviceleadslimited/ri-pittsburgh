@@ -18,11 +18,11 @@ faqs:
     a: "Put a bucket under it, move whatever's below it, and poke a small hole in the center of a bulging ceiling to let the water drain in one spot rather than collapsing the whole panel. Then call. If water is anywhere near a light fixture or outlet, kill the breaker to that room first."
 ---
 
-Here's the thing about roof leaks: the water almost never comes in where you see it. It enters at a chimney or a vent boot or a sidewall, runs along a rafter, soaks the insulation, and finally shows itself on a ceiling somewhere else entirely. Which is why "the stain is over the back bedroom, patch above the back bedroom" fails so often. A Pittsburgh roof leak inspection is about finding the actual entry point, documenting what the water has already damaged, and telling you honestly whether this is a repair or the beginning of a replacement conversation.
-
-Start at [Pittsburgh Roof Inspection](/) for the general service and a free local connection. Comparing a free contractor visit to a paid written report? The [roof inspection cost guide](/roof-inspection-cost) lays out both.
+Here's the thing about roof leaks: the water almost never comes in where you see it. It enters at a chimney or a vent boot or a sidewall, runs along a rafter, soaks the insulation, and shows itself on a ceiling somewhere else entirely. Which is why "stain over the back bedroom, patch above the back bedroom" fails so often. A Pittsburgh roof leak inspection finds the actual entry point and tells you honestly whether this is a repair or the start of a replacement conversation.
 
 ## Signs worth calling about
+
+Start at [Pittsburgh Roof Inspection](/) for the general service and a free local connection. Comparing a free contractor visit to a paid written report? The [roof inspection cost guide](/roof-inspection-cost) lays out both.
 
 - A new brown or yellow ceiling mark, especially one that grows after rain.
 - Dripping, damp insulation, or a musty attic smell.

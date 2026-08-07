@@ -18,9 +18,9 @@ faqs:
 
 Short version: **the roof inspection we arrange in Pittsburgh costs $0**, with no obligation to hire anyone. That covers most situations — a leak, storm concern, visible damage, an aging roof, or a replacement recommendation you want checked. Where money enters the picture is when you need a paid independent written report, which is a genuinely different product for a genuinely different purpose.
 
-For a general condition visit, start at [Pittsburgh roof inspection](/). Water after rain goes to [roof leak inspection](/roof-leak-inspection); wind, hail, or a downed limb goes to [storm damage inspection](/storm-damage-roof-inspection).
-
 ## Pittsburgh roof inspection planning ranges
+
+For a general condition visit, start at [Pittsburgh roof inspection](/). Water after rain goes to [roof leak inspection](/roof-leak-inspection); wind, hail, or a downed limb goes to [storm damage inspection](/storm-damage-roof-inspection).
 
 | Inspection type | Planning range | What it usually means |
 | --- | ---: | --- |
