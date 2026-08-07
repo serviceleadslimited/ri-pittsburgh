@@ -26,9 +26,10 @@ export const THEME_COLOR = "#334155";
 // Empty string = analytics fully disabled.
 export const GA_MEASUREMENT_ID = "G-1CWY3MC8NM";
 
-// Ahrefs Web Analytics. Empty string = disabled. Key is domain-bound — not
-// yet provisioned for roofcleaningsandiegoca.com.
-export const AHREFS_ANALYTICS_KEY = "0ngJd8YhwHUagm8uJWUUYw";
+// Ahrefs Web Analytics. This public, domain-bound key belongs to the Ahrefs
+// Rank Tracker project for roofinspectionpittsburgh.com and is loaded after
+// first scroll by Analytics.tsx rather than on initial page load.
+export const AHREFS_ANALYTICS_KEY = "+/ZL1VvRgz+UhUi3KKfKpw";
 
 // Chrome WebMCP origin-trial token (developer.chrome.com/origintrials).
 // Origin-trial tokens are public by design but bound to one origin. Verified

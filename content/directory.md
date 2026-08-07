@@ -12,37 +12,37 @@ faqs:
     a: "Ask what the inspection includes, whether inaccessible areas will be documented, whether you receive photographs or a written report, what insurance and Pennsylvania registration information applies, and whether there is any obligation to hire the company afterward."
 ---
 
-Below are Pittsburgh-area roofing companies with public roof-inspection information. Use the links to contact a company directly, compare what each inspection includes, and ask questions before authorizing any work.
+Below are Pittsburgh-area roofing companies with public roof-inspection information. Use the details to contact a company directly, compare what each inspection includes, and ask questions before authorizing any work.
 
 ## Pittsburgh-area roof inspection companies
 
-### [EAS Roofing](https://www.thepittsburghroofer.com/roofing/inspections/)
+### EAS Roofing
 
 - **Location shown on its site:** Glenshaw, PA
-- **Phone shown on its site:** [(412) 744-8084](tel:+14127448084)
+- **Phone shown on its site:** (412) 744-8084
 - **Inspection information:** Its inspection page describes evaluations for leaks, flashing, missing shingles, skylights, gutters, ice dams, and tree-limb damage. It also discusses repair-versus-replacement recommendations.
-- **Direct link:** [Pittsburgh roof inspection page](https://www.thepittsburghroofer.com/roofing/inspections/)
 
-### [Holzer Jesko Quality Exteriors](https://www.holzerjesko.com/roof-inspection-services)
+
+### Holzer Jesko Quality Exteriors
 
 - **Location shown on its site:** Carnegie, PA; serving Pittsburgh and surrounding areas
-- **Phone shown on its site:** [(412) 387-7785](tel:+14123877785)
+- **Phone shown on its site:** (412) 387-7785
 - **Inspection information:** Its roof-inspection page says it examines shingles, flashing, ventilation, drainage systems, and structural integrity, with documented findings and photographic evidence.
-- **Direct link:** [Roof inspection services](https://www.holzerjesko.com/roof-inspection-services)
 
-### [Mighty Dog Roofing of West Pittsburgh](https://www.mightydogroofing.com/west-pittsburgh-pa/services/roof-inspection/)
+
+### Mighty Dog Roofing of West Pittsburgh
 
 - **Area shown on its site:** West Pittsburgh / Carnegie, with Pittsburgh-area service pages
-- **Phone shown on its site:** [(412) 899-2407](tel:+14128992407)
+- **Phone shown on its site:** (412) 899-2407
 - **Inspection information:** Its Pittsburgh-area page promotes a free property inspection and says drone technology is used to assess roof conditions, including areas that may be difficult to inspect from the ground.
-- **Direct link:** [Roof inspection service](https://www.mightydogroofing.com/west-pittsburgh-pa/services/roof-inspection/)
 
-### [Pittsabana Roofing](https://www.pittsabana.com/services/roof-inspection)
+
+### Pittsabana Roofing
 
 - **Area shown on its site:** Pittsburgh, PA
-- **Phone shown on its site:** [(412) 580-6567](tel:+14125806567)
+- **Phone shown on its site:** (412) 580-6567
 - **Inspection information:** Its inspection page describes a 15-point evaluation with roof-surface, flashing, ventilation, attic, and photo-documentation elements. It distinguishes its free homeowner inspection path from formal standalone documentation.
-- **Direct link:** [Pittsburgh roof inspection service](https://www.pittsabana.com/services/roof-inspection)
+
 
 ## How to use this directory
 
