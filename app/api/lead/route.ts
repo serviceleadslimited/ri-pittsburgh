@@ -9,18 +9,13 @@ function clean(value: unknown): string {
 }
 
 // Cloudflare Turnstile server-side check (gates.yaml build.form_spam_gate,
-// added 2026-08-03). Soft-block by design: an INVALID token rejects the
-// submission (someone tampered with or replayed a token), but a MISSING
-// token does NOT — Turnstile's managed mode occasionally shows an
-// interactive challenge to a small slice of traffic, and a non-interactive
-// WebMCP agent submission (toolautosubmit fires immediately) must never be
-// hard-blocked by that per gates.yaml's explicit requirement. The honeypot
-// field remains the hard spam filter; Turnstile narrows the gap further
-// without becoming a second point of failure for legitimate agent traffic.
+// added 2026-08-03). A token is mandatory: the widget is present on the form,
+// and accepting a missing token would leave the API unprotected. Managed mode
+// may show an interactive challenge, but a successful challenge still returns
+// a token for ordinary browser and agent-invoked submissions.
 async function verifyTurnstile(token: string, remoteIp: string | null): Promise<boolean> {
   const secret = process.env.TURNSTILE_SECRET_KEY;
-  if (!secret) return true; // not provisioned yet — don't block on an absent gate
-  if (!token) return true; // soft-block: see comment above
+  if (!secret || !token) return false;
   try {
     const body = new URLSearchParams({ secret, response: token });
     if (remoteIp) body.set("remoteip", remoteIp);
@@ -33,7 +28,7 @@ async function verifyTurnstile(token: string, remoteIp: string | null): Promise<
     return Boolean(outcome.success);
   } catch (err) {
     console.error("Turnstile verify request failed:", err);
-    return true; // Cloudflare being unreachable should not cost us a real lead
+    return false;
   }
 }
 
