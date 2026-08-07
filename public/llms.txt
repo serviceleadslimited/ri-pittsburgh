@@ -7,7 +7,6 @@ Service area: Pittsburgh, Mt. Lebanon, Bethel Park, Monroeville, and nearby Alle
 ## Pages
 
 - [Roof Inspection Pittsburgh](https://roofinspectionpittsburgh.com/): what a thorough inspection checks, when to schedule, and how to compare a contractor inspection with an independent report.
-- [Pittsburgh Roof Inspection Services](https://roofinspectionpittsburgh.com/roof-inspection): inspection scope, Pittsburgh weather concerns, and questions to ask before booking.
 - [Roof Leak Inspection](https://roofinspectionpittsburgh.com/roof-leak-inspection): symptoms, likely entry points, leak tracing, and what to do before the next storm.
 - [Storm Damage Roof Inspection](https://roofinspectionpittsburgh.com/storm-damage-roof-inspection): wind, hail, snow, fallen-branch evidence, safe documentation, and insurance limits.
 - [Roof Inspection Cost Guide](https://roofinspectionpittsburgh.com/roof-inspection-cost): what affects price, free contractor visits versus paid independent reports, and comparison questions.
@@ -21,7 +20,6 @@ Service area: Pittsburgh, Mt. Lebanon, Bethel Park, Monroeville, and nearby Alle
 ## Markdown Mirrors
 
 - [Home](https://roofinspectionpittsburgh.com/mirror/index.md)
-- [Roof Inspection](https://roofinspectionpittsburgh.com/mirror/roof-inspection.md)
 - [Roof Leak Inspection](https://roofinspectionpittsburgh.com/mirror/roof-leak-inspection.md)
 - [Storm Damage Roof Inspection](https://roofinspectionpittsburgh.com/mirror/storm-damage-roof-inspection.md)
 - [Roof Inspection Cost Guide](https://roofinspectionpittsburgh.com/mirror/roof-inspection-cost.md)

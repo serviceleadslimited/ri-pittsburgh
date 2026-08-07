@@ -1,79 +1,80 @@
 ---
 slug: /
 title: "Roof Inspection Pittsburgh, PA | Free Inspection"
-metaDescription: "Get a free roof inspection in Pittsburgh with clear findings from an insured local roofing professional. No obligation to hire. Call today."
+metaDescription: "Get a free roof inspection in Pittsburgh with clear findings from an insured local roofing professional. No obligation to hire. Call (412) 797-5703."
 h1: "Roof Inspection Pittsburgh, PA"
 primaryKeyword: "roof inspection pittsburgh"
 secondaryKeywords: ["pittsburgh roof inspection", "free roof inspection pittsburgh", "residential roof inspection pittsburgh"]
 faqs:
   - q: "Do roofers offer free inspections in Pittsburgh?"
-    a: "Many roofing companies offer a free inspection when they are evaluating a repair or replacement. Ask what the visit includes, whether you receive photos, and whether there is any obligation to hire the company."
+    a: "Most do, when they're sizing up a repair or a replacement. The inspection we arrange is free with no obligation to hire. Ask any roofer three things before they come out: do you get photos, do you get it in writing, and are you expected to sign anything that day."
   - q: "How much does a roof inspection cost in Pennsylvania?"
-    a: "The roof inspection we arrange is free and has no obligation to hire. A separate independent written report for a sale, purchase, or dispute may cost more because it is a different service."
+    a: "Ours is $0. A paid independent report — the kind a buyer, seller, or insurer sometimes demands — usually runs $150 to $750 depending on access and how much documentation is involved. Those are two different products, and our cost guide breaks down which one your situation actually calls for."
   - q: "What does a roof inspection look for?"
-    a: "An inspector checks the roof covering, flashing, valleys, penetrations, gutters, drainage, visible attic or interior evidence, and signs of storm or leak damage. The goal is to explain what needs attention and what can wait."
+    a: "Flashing first, most of the time. Chimneys, sidewalls, skylights, vent boots and valleys are where Pittsburgh roofs leak — far more often than the open field of shingles everyone stares at from the driveway. A good inspector also checks gutters, drainage, and whatever the attic shows."
   - q: "How long does a roof inspection take?"
-    a: "Many residential inspections take about one to two hours, but roof size, pitch, access, attic conditions, and the amount of documentation can change the timing. Ask what the visit includes when you book."
+    a: "An hour to two on a typical house. A steep slate roof in Squirrel Hill takes longer than a low-slope ranch in Bethel Park, and adding attic access or claim photos adds time."
   - q: "Will I receive a written roof inspection report?"
-    a: "Ask the contractor before scheduling. A useful report or estimate should identify the observed issue, include photographs where practical, and separate urgent repairs from maintenance or future planning."
+    a: "Ask before you schedule, because the answer varies by company. What you want is photos of the actual defect, plain wording about what's urgent versus what can wait a season, and a number attached to each. A verbal 'it's shot, you need a new roof' is not a report."
   - q: "Can a roof inspection find a leak?"
-    a: "An inspection can often identify likely entry points and related damage, but water may travel before it appears indoors. Leak tracing may require attic review, moisture testing, or a follow-up repair visit."
+    a: "Usually. Water rarely drips straight down, though — it rides a rafter ten feet before it stains a ceiling, so the wet spot is a clue, not an address. Intermittent leaks that only show up in wind-driven rain sometimes take a second visit."
 ---
 
-A roof can look fine from the driveway and still have failed flashing, loose shingles, hidden storm damage, or a leak that is traveling well away from the ceiling stain. A Pittsburgh roof inspection gives you a clear starting point before you approve a repair, file an insurance claim, buy or sell a home, or simply keep guessing.
+Your roof can look completely fine from the sidewalk and still be leaking. Flashing fails quietly. Storm damage hides on the slope facing away from the street. And a stain on your ceiling is almost never directly under the hole that caused it. A Pittsburgh roof inspection is how you stop guessing before you spend money — on a repair, an insurance claim, or a replacement somebody told you at the door that you needed.
 
 ## What a Pittsburgh roof inspection should cover
 
-A useful inspection is more than a glance from the sidewalk. The exact scope depends on the roof and the contractor, but a thorough visit should consider:
+Anybody can squint at your house from the driveway and quote a number. That's not an inspection. What you're paying attention to:
 
-- Shingles, tiles, membrane, or other roof covering for age, cracking, curling, missing material, granule loss, or impact marks.
-- Flashing around chimneys, walls, skylights, vent pipes, valleys, and roof-to-wall transitions.
-- Gutters, downspouts, drainage paths, ponding, and debris that can hold water against the roof system.
-- Attic or interior evidence when safely accessible, including staining, damp insulation, daylight, damaged decking, or ventilation concerns.
-- Wind, hail, ice, and fallen-branch damage, with photos that distinguish visible damage from ordinary wear.
-- Repairs that were attempted before, because a patch around the wrong entry point can leave the real leak untouched.
+- **Flashing.** Chimneys, sidewalls, skylights, vent boots, valleys, roof-to-wall transitions. This is where most leaks actually start.
+- **The covering itself** — cracking, curling, missing pieces, granule loss in the gutters, hail bruises.
+- **Gutters and drainage.** An overflowing gutter mimics a roof leak convincingly, and homeowners pay for roof work to fix a gutter problem more often than anyone likes to admit.
+- **The attic**, when someone can safely get into it. Daylight, damp insulation, stained decking, blocked ventilation.
+- **Previous repairs.** A patch aimed at the wrong entry point leaves the real leak running.
 
-Pittsburgh weather makes the details matter. Freeze-thaw cycles, wind-driven rain, snow, ice dams, moss, and long periods of dampness can expose weak flashing or shorten the life of aging materials. That does not mean every old roof needs replacement. A good inspection should tell you when a repair is reasonable and when continued patching is only postponing a larger problem.
+Pittsburgh puts specific pressure on all of that. We get about 38 inches of rain and 44 inches of snow in a normal year, and the winter here doesn't freeze once and stay frozen — it thaws and refreezes over and over, which is the cycle that pries flashing loose and lifts shingle edges. Then there's the housing. Roughly 47% of homes in the city were built before 1940, four times the national share. Those houses come with slate, masonry chimneys, dormers, complicated valleys and roof-to-wall details that a 1990s subdivision simply doesn't have.
 
-Roof age is useful context, not a diagnosis. A well-maintained roof may remain serviceable, while a newer roof can still have a flashing or installation failure. Chimneys, skylights, vent boots, valleys, wall transitions, roof edges, gutters, and accessible attic ventilation all deserve attention because water and moisture problems often begin at those changes in the roof system.
+None of which means an old roof is a dead roof. Plenty of 25-year-old roofs in Pittsburgh have years left, and plenty of 8-year-old roofs leak because someone flashed a chimney badly. Age is context. It isn't a diagnosis, and any roofer who diagnoses from the curb by counting decades is selling, not inspecting.
 
-For a ceiling stain or water that appears after rain, start with a [roof leak inspection](/roof-leak-inspection). After wind, hail, or a fallen branch, use a [storm damage roof inspection](/storm-damage-roof-inspection). Our [roof inspection cost guide](/roof-inspection-cost) explains the difference between the free contractor visit and a paid formal report; see [service areas](/service-areas) for Pittsburgh-area coverage or the [local directory](/directory) when you want to compare public options.
+Got a ceiling stain or water showing up after rain? Start with a [roof leak inspection](/roof-leak-inspection). Wind, hail, or a branch came down? That's a [storm damage roof inspection](/storm-damage-roof-inspection). Wondering what any of this costs, or whether you need a paid formal report instead of a free visit — our [roof inspection cost guide](/roof-inspection-cost) sorts that out. [Service areas](/service-areas) covers where we send pros, and the [local directory](/directory) is there if you'd rather compare companies yourself.
 
 ## How the referral works
 
-Our free referral service connects Pittsburgh homeowners with an independent local roofing professional for a **free roof inspection**. **We are not the contractor and do not inspect roofs ourselves.** The contractor we refer is insured and should explain the inspection scope, findings, photos, and next step before you commit to work.
+We're a free referral service. **We are not the contractor and we don't inspect roofs ourselves.** You call or fill out the form, we hand your details to one insured local roofing professional — one, not a list of five who all call you at dinner — and they come look at your roof for free. Whether you hire anyone after that is entirely your call.
 
-## When to schedule an inspection
+## When to schedule one
 
-You do not have to wait for a dramatic ceiling stain. Consider an inspection when:
+Don't wait for a dramatic ceiling stain. Reasonable reasons to call:
 
-1. A storm, high wind, hail event, or fallen branch may have damaged the roof.
-2. You see missing, lifted, cracked, or darkened roofing material from the ground.
-3. A ceiling, wall, attic, or garage has a new water mark or musty smell.
-4. You are buying or selling a home and the roof's age or remaining life is unclear.
-5. A roofer has recommended replacement and you want a second look before signing.
-6. The roof is old enough that maintenance has become a series of guesses rather than a plan.
+1. A storm came through and you're not sure what it did up there.
+2. You can see missing, lifted, or darkened shingles from the ground.
+3. New water mark. Musty smell in the attic. Either one.
+4. You're buying or selling and nobody can say how much roof is left.
+5. Somebody quoted you a full replacement and your gut says get a second look.
+6. The roof is old enough that maintenance has turned into a series of guesses.
 
-Do not climb onto a wet, steep, or visibly damaged roof to investigate it yourself. From the ground, take photos only when it is safe, then describe what changed when you call.
+One thing: don't climb up there yourself to check. Wet roof, steep roof, storm-damaged roof — that's how people end up in the ER over a $400 repair. Photos from the ground are plenty.
 
-## Before an inspection
+## Before the inspection
 
-Gather any earlier invoices, reports, insurance correspondence, and photos of the issue. Note which room shows a stain, when it appeared, and what weather preceded it. Before scheduling, ask what the professional will physically inspect, whether the roof will be walked when safe, whether attic or interior evidence is included, and what photographs or written scope you will receive.
+Dig up old invoices, prior reports, and any insurance correspondence. Note which room shows the stain, roughly when it appeared, and what the weather was doing beforehand. That last detail matters more than people expect — a leak that only appears in driving rain from the west points somewhere very different than one that shows up during snow melt.
 
-## Inspection versus a roofing estimate
+Then ask the contractor what you're actually getting: will they physically get on the roof where it's safe, does the attic get looked at, and what do you receive when they're done.
 
-The words are sometimes used interchangeably, but they describe different outcomes. The contractor we connect you with offers a free roof inspection to identify the condition and next step. If work is needed, the contractor may later provide a repair or replacement estimate. An independent inspector may charge for a written report when neutrality matters, such as a real-estate transaction or a disagreement about storm damage.
+## Inspection or estimate — they're not the same thing
 
-Neither option is automatically better. Ask four plain questions: Will someone physically inspect the roof where safe? Will I receive photographs? Will the findings distinguish repairable wear from replacement-level damage? Is there any obligation to hire the company? Clear answers are more useful than a badge or a dramatic sales pitch.
+People use the words interchangeably and then get surprised. The contractor we connect you with does a free inspection to figure out the roof's condition and what it needs. If it needs work, an estimate for that work may follow. An independent inspector, by contrast, charges for a written report and has no repair to sell you — which is exactly why you'd pay for one during a home sale or a fight with an insurer.
 
-## What happens after you request help
+Neither is automatically the better choice. Four questions cut through it: Is somebody actually getting on the roof? Do I get photos? Will you tell me if a repair will do instead of a replacement? Am I obligated to hire you? Straight answers to those beat any badge on a truck.
 
-Tell us whether your concern is a leak, storm damage, age, a home purchase, or a contractor's recommendation. We will connect you with a local insured roofing professional serving Pittsburgh and nearby communities. The contractor will confirm availability, discuss the inspection scope, and explain what happens next.
+## After you reach out
 
-A referral is not a guarantee that a roof needs work. It is a faster way to get a qualified local inspection started. Compare the findings with the condition you can actually see, and get another opinion when a recommended repair or replacement is unclear.
+Tell us what you're dealing with — leak, storm, age, home purchase, or a replacement recommendation you don't trust. We pass it to one insured local roofing pro covering Pittsburgh and the surrounding communities. They confirm they can get to you, talk through what the visit covers, and go from there.
 
-## Pittsburgh roof inspection service area
+A referral doesn't mean your roof needs work. It means someone qualified is going to look at it and tell you. Compare what they say against what you can see, and if a big recommendation doesn't add up, get another opinion before you sign anything.
 
-The service area includes Pittsburgh and nearby communities in Allegheny County, with availability depending on the contractor and the property. If you are outside the core metro, call anyway and provide the municipality and ZIP code; the contractor can tell you whether the address is within the normal route.
+## Where we cover
 
-Questions are welcome before you schedule. Call or use the form to request a free roof inspection and describe the roof, the problem, and the best way to reach you.
+Pittsburgh proper and the surrounding Allegheny County communities, though availability depends on the contractor and the property. If you've been searching "roof inspection near me" and getting a national call center in another state, that's the thing we're not. Outside the core metro? Call anyway with your municipality and ZIP — the pro can tell you straight whether you're on their route.
+
+Questions before you commit to anything are fine and expected. Call or use the form: describe the roof, describe the problem, tell us how to reach you.

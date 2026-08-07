@@ -1,63 +1,79 @@
 ---
 slug: /storm-damage-roof-inspection
-title: "Storm Damage Roof Inspection Pittsburgh | Hail & Wind Checks"
-metaDescription: "Suspect wind, hail, or fallen-branch roof damage in Pittsburgh? Get connected with an insured local roofing professional for photos and a clear assessment."
+title: "Storm Damage Roof Inspection Pittsburgh | (412) 797-5703"
+metaDescription: "Wind, hail, or fallen-branch roof damage in Pittsburgh? Free inspection from an insured local pro, with photos and a dated record. Call (412) 797-5703."
 h1: "Storm Damage Roof Inspection Pittsburgh"
 primaryKeyword: "storm damage roof inspection pittsburgh"
 secondaryKeywords: ["hail damage roof inspection pittsburgh", "wind damage roof inspection pittsburgh", "roof inspection after storm pittsburgh"]
 faqs:
-  - q: "How soon should I inspect my roof after a storm?"
-    a: "Schedule as soon as it is safe and practical. Early photographs and a dated assessment can help identify new damage before weather causes additional interior problems."
+  - q: "How soon should I get the roof looked at after a storm?"
+    a: "Within days if you can. Not because of some claim deadline myth, but because a dated set of photos taken close to the storm is far more persuasive than one taken in November about an August event. Most policies also expect prompt reporting."
   - q: "Does homeowners insurance cover storm damage?"
-    a: "Coverage depends on the policy, cause of loss, exclusions, deductible, and evidence of prior condition. An inspection can document observed conditions, but the insurer decides the claim."
+    a: "Sometimes. It turns on the policy language, the cause of loss, your deductible, and whether the damage looks like a storm event or like fifteen years of wear. An inspection documents the condition. The carrier decides the claim, and anyone who guarantees an approval is guessing."
   - q: "What should I do before the inspection?"
-    a: "Take safe ground-level photos, note the storm date and any interior water, protect belongings from active water, and avoid climbing onto a wet or damaged roof."
+    a: "Ground-level photos, write down the storm date, move anything valuable out from under an active drip, and stay off the roof. If the ceiling is bulging, poke it in one spot over a bucket so it drains instead of collapsing."
+  - q: "Someone knocked on my door offering a free storm inspection. Should I let them up?"
+    a: "Be careful. Post-storm door-knocking is a real industry and some of it is fine and some of it is not. Do not sign anything on the doorstep — particularly an assignment of benefits, which hands your claim to a stranger. Ask for a local address and proof of insurance, then verify it yourself."
+  - q: "Can hail damage a roof without leaking?"
+    a: "Yes, and that's the tricky part. Hail knocks granules off asphalt shingles and bruises the mat underneath. The roof stays watertight for a while and then fails early — sometimes years later. This is exactly the sort of thing that needs documenting near the storm date."
 ---
 
-Wind, hail, heavy rain, snow, and falling branches can leave roof damage that is easy to miss from the ground. A Pittsburgh storm-damage roof inspection gives you a dated record of what was observed, photographs where practical, and a clearer decision about temporary protection, repair, or further evaluation.
+Wind, hail, and falling limbs do damage you cannot see from the ground. That's not a sales line, it's geometry — the slope facing away from your street is invisible from your street, and hail bruising doesn't announce itself at all. A Pittsburgh storm damage roof inspection gets you a dated record of what's up there, photos where they can be taken, and a real answer about whether you're looking at a tarp, a repair, or a claim.
 
-For the broader inspection path and a free connection with a local professional, start at [Pittsburgh Roof Inspection](/). The [roof inspection cost guide](/roof-inspection-cost) explains when a paid independent report may make more sense than a contractor-provided visit.
+Start at [Pittsburgh Roof Inspection](/) for the general service. The [roof inspection cost guide](/roof-inspection-cost) covers when a paid independent report beats a contractor visit — which, in a contested claim, it sometimes does.
 
-## Damage that may not be obvious
+## What to look for from the ground
 
-After a storm, look from the ground for missing or lifted shingles, bruised or cracked material, exposed underlayment, damaged flashing, fallen limbs, bent gutters, and debris. Hail can leave small impact marks or granule loss without creating an immediate leak. Wind can loosen a roof edge or flashing joint that fails during a later rain.
+Missing or lifted shingles. Exposed underlayment. Bent or torn flashing. Branches down. Bent gutters. Granules washed into the downspout splash. Debris in the valleys.
 
-Interior clues matter too: new stains, damp insulation, dripping, peeling paint, or water around a skylight or chimney. Photograph the area without putting yourself under an unsafe roof section. Write down when you noticed it and what weather preceded it.
+Hail is subtler: small dark impact marks where granules got knocked off, sometimes dents in soft metal like gutters, vents, or a grill lid. If your gutters are dented, the roof probably took hits too.
 
-## What a storm inspection should document
+Inside, check for new stains, damp insulation, dripping, peeling paint, and water near a skylight or chimney. Note when you noticed it and what weather preceded it.
 
-A useful assessment should distinguish observed damage from assumptions. Ask the contractor to explain:
+Photograph what you can safely see. Do not go up on the roof after a storm — that's the single most dangerous thing a homeowner does after weather, and it isn't close.
 
-1. Which roof sections were inspected and which could not be accessed safely.
-2. What damage appears consistent with the recent storm and what appears older or unrelated.
-3. Whether the issue is an emergency, a temporary-protection need, a repair, or a replacement-level condition.
-4. Which photographs and measurements support the recommendation.
-5. Whether additional testing or an independent inspection would clarify the result.
+## What the inspection should document
 
-The inspection may include the roof covering, flashing, valleys, penetrations, gutters, roof edges, attic or interior areas, and collateral exterior features when relevant. Aerial or drone imagery can help document a roof that is unsafe to walk, but it does not automatically replace a close inspection of accessible details.
+The line that matters is between what was observed and what was assumed. Ask the contractor to be explicit about:
 
-## Insurance claims and contractor recommendations
+1. Which sections were inspected and which couldn't be reached safely.
+2. What looks consistent with this storm versus what looks like ordinary aging. Insurers care intensely about this distinction and so should you.
+3. Whether this is an emergency, a tarp situation, a repair, or replacement-level.
+4. Which photos and measurements back up the recommendation.
+5. Whether an independent inspection would help if the claim gets contested.
 
-If you intend to contact your insurer, keep the storm date, photographs, inspection report, repair estimates, prior maintenance records, and receipts for temporary protection. An inspector or contractor can describe what was found. Only the carrier can determine whether the loss is covered under your policy.
+Coverage should include the roof surface, flashing, valleys, penetrations, gutters, roof edges, and accessible attic or interior areas. Drone imagery is useful for steep or unsafe roofs, and it's a legitimate tool — but a drone photo from forty feet up doesn't substitute for a close look at a flashing joint.
 
-Be cautious of door-to-door pressure immediately after a storm. Ask for a local business address, proof of insurance, Pennsylvania registration information where applicable, references, and a written scope. Do not sign an assignment of benefits or authorize a full replacement because someone says the damage is urgent without showing you what they found.
+## Insurance claims, minus the mythology
 
-A storm inspection should not promise that an insurer will pay, that a roof qualifies for replacement, or that a claim will be approved. It should give you usable evidence and a reasonable next step.
+Keep everything in one place: storm date, photos, the inspection report, estimates, maintenance records, and receipts for any temporary protection you paid for. Emergency tarping is usually reimbursable; the receipt is what makes it so.
+
+A contractor can describe what they found. Only the carrier decides coverage. Two things to watch for in Pittsburgh after a big storm:
+
+**Door-to-door pressure.** Ask for a local business address, proof of insurance, applicable Pennsylvania registration, references, and a written scope. Verify independently — a company that vanishes in eighteen months takes your workmanship warranty with it.
+
+**Assignment of benefits.** This document transfers your right to the insurance proceeds to the contractor. Do not sign one on your doorstep, ever. Read it somewhere quiet, or don't sign it at all.
+
+An honest storm inspection doesn't promise your insurer will pay, doesn't promise your roof qualifies for replacement, and doesn't promise a claim gets approved. It gives you evidence and a sensible next move. That's the whole product.
 
 ## How the referral works
 
-This site connects homeowners with an independent local roofing professional. We are not the contractor, do not perform inspections, and do not decide insurance claims. Referred contractors are insured; verify the contractor's business, Pennsylvania registration where applicable, insurance, and written scope before authorizing work.
+We connect homeowners with one independent local roofing professional. We are not the contractor, we don't perform inspections, and we have nothing to do with insurance claims. Referred pros are insured; verify the business, applicable Pennsylvania registration, insurance, and written scope before authorizing work.
 
-## Temporary protection
+## If water is coming in now
 
-If water is entering, protect furniture and flooring and contact the contractor about temporary measures. Do not climb onto a roof during rain, wind, or unstable conditions, and do not handle electrical fixtures near water. Emergency tarping or temporary repairs are separate from the later permanent scope; get the price and limitations in writing.
+Protect the furniture and flooring first. Bucket under the drip. If the ceiling is bulging, put a small hole in the low point so it drains in one place instead of coming down all at once. Call about temporary protection.
 
-## Pittsburgh storm conditions
+Stay off the roof in rain or wind, and keep clear of electrical fixtures near water. Emergency tarping is a separate job from the permanent repair — get its price and its limitations in writing so it doesn't quietly become a deposit on a roof you haven't agreed to.
 
-The Pittsburgh region can see wind-driven rain, snow, ice, freeze-thaw movement, and tree-related damage. A roof may remain watertight during the first storm and fail later as wind, melt, or repeated freezing opens the damaged area. Scheduling an inspection early is sensible even when the first interior sign has not appeared.
+## What storms do here
+
+Pittsburgh gets summer thunderstorms with straight-line wind, occasional hail, heavy autumn rain, ice storms, and a lot of tree contact — the tree canopy over most of these neighborhoods is old and large. Around 44 inches of snow a year, and the freeze-thaw cycle keeps working at whatever the storm loosened.
+
+That's the pattern that catches people out: the roof holds through the storm itself, then fails three weeks later when wind, melt, or repeated freezing finishes opening what got started. Getting it looked at before the first interior sign appears is not paranoid. It's just cheaper.
 
 ## Request a local storm inspection
 
-Tell us the storm date, what you saw from the ground, whether there is active water, and the property's municipality. Call for the fastest connection or use the form. The local roofing professional will confirm availability and arrange your free storm-damage roof inspection.
+Tell us the storm date, what you saw from the ground, whether there's active water, and your municipality. Call **(412) 797-5703** for the fastest connection, or use the form. One insured local roofing professional confirms availability and schedules your free storm damage inspection.
 
-You are buying information first, not committing to a replacement. Compare the evidence, ask questions, and get another opinion when the recommendation is unclear.
+You're buying information here, not committing to a replacement. Look at the evidence, ask questions, and get another opinion any time the recommendation outruns what you were actually shown.

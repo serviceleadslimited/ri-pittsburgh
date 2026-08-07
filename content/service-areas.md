@@ -1,107 +1,91 @@
 ---
 slug: /service-areas
-title: "Roof Inspection Service Areas Pittsburgh, PA | Free Inspection"
-metaDescription: "Get a free roof inspection in Pittsburgh and across Allegheny County. Local roof-inspection help for the city, South Hills, North Hills, East End, and west suburbs."
+title: "Roof Inspection Service Areas Pittsburgh, PA | (412) 797-5703"
+metaDescription: "Free roof inspection across Pittsburgh and Allegheny County — city, South Hills, East End, North Hills, and the west suburbs. Call (412) 797-5703."
 h1: "Pittsburgh Roof Inspection Service Areas"
 primaryKeyword: "roof inspection service areas pittsburgh"
 secondaryKeywords: ["roof inspection allegheny county", "roof inspector near me pittsburgh"]
 faqs:
   - q: "Do you serve outside Pittsburgh city limits?"
-    a: "Yes. We connect homeowners throughout Pittsburgh and the surrounding Allegheny County communities with a local roofing professional for a free roof inspection. Give us your municipality and ZIP code when you request help."
+    a: "Yes — most of our requests come from outside the city, honestly. Give us your municipality and ZIP when you call and we'll tell you whether it's on a pro's route."
   - q: "Do you cover the South Hills and North Hills?"
-    a: "Yes. Mt. Lebanon, Bethel Park, Upper St. Clair, Ross Township, McCandless, Shaler, Hampton, and nearby communities are part of the greater Pittsburgh service area."
+    a: "Both. Mt. Lebanon, Bethel Park, Upper St. Clair, Dormont and the rest of the South Hills; Ross, McCandless, Shaler, Hampton, Wexford and the North Hills communities."
+  - q: "My house is in a borough nobody has heard of. Is that a problem?"
+    a: "Allegheny County has 130 municipalities, so no. What matters is drive time, not name recognition. Tell us the ZIP."
+  - q: "Does it cost more if I'm farther out?"
+    a: "The inspection is free regardless. Distance affects whether a given contractor takes the job, not what you're charged for looking."
+  - q: "Can you inspect a slate roof?"
+    a: "Some contractors will, some won't touch it. Slate needs different footing and different judgment than asphalt. Say 'slate' when you call so we route it to someone who works on it."
 ---
 
-Pittsburgh Roof Inspection connects homeowners across the city and greater Allegheny County with an insured local roofing professional for a **free roof inspection**. Whether you have a ceiling stain after rain, missing shingles after wind, a roof nearing the end of its life, or a question before buying a home, start with a clear look at the roof and straightforward findings.
+We connect homeowners across Pittsburgh and Allegheny County with one insured local roofing professional for a **free roof inspection**. Ceiling stain after Tuesday's rain, shingles in the yard after a windstorm, a roof that's just plain old, or a question you need answered before closing on a house — the starting point is the same. Somebody competent looks at it and tells you what's actually going on.
 
-Start with [Pittsburgh Roof Inspection](/) for the general service and a free connection. If you are comparing a free contractor visit with a paid written report for a sale, purchase, dispute, or documentation need, see the [roof inspection cost guide](/roof-inspection-cost).
+Start at [Pittsburgh Roof Inspection](/) for the main service. If you're weighing a free contractor visit against a paid written report — for a sale, a purchase, or a dispute — the [roof inspection cost guide](/roof-inspection-cost) explains which one your situation calls for.
 
-## How Pittsburgh conditions affect a roof
+## Why location matters more here than in most cities
 
-The Pittsburgh region’s rain, snow, ice, wind, mature tree cover, hills, and mix of older and newer homes make roof details matter. A small flashing problem can stay hidden until wind-driven rain finds it; snow and freeze-thaw cycles can expose a weak roof edge, valley, chimney transition, or vent boot. The communities below are where we help homeowners request a local roof inspection.
+Allegheny County is 130 separate municipalities packed into 730 square miles, and the housing changes character every few miles. A 1925 brick foursquare in Dormont, a hillside house in Troy Hill with a roof you can practically step onto from the street above it, and a 2005 colonial in Cranberry are three genuinely different roofing problems. Access, pitch, material, and drainage all shift.
 
-## Pittsburgh roof inspection
+The weather is the constant. About 38 inches of rain, 44 inches of snow, and — the part that does the real damage — a winter that freezes and thaws repeatedly instead of staying cold. Water gets into a flashing seam, freezes, expands, opens the seam a little wider, and does it again next week. That's why so many Pittsburgh leaks trace back to chimneys and sidewalls rather than the shingles themselves.
 
-Pittsburgh homeowners deal with every kind of roof setting: compact city lots, hillside homes, brick construction, older roof-to-wall transitions, dormers, and tree-covered streets. A free Pittsburgh roof inspection is useful when a ceiling mark appears after rain, shingles look worn from the ground, or a roof recommendation needs a second set of eyes. Tell the roofing professional whether the concern is a leak, storm damage, age, or a purchase so the visit starts with the right questions.
+The other constant is age. Roughly 47% of city housing predates 1940 — four times the national rate — and the inner boroughs aren't far behind. Old houses mean slate, masonry chimneys, dormers, and valleys that were built by hand.
 
-## Mt. Lebanon roof inspection
+## Pittsburgh city neighborhoods
 
-Mt. Lebanon has established residential streets, mature trees, and many homes where roof age, chimney flashing, gutters, and attic moisture deserve a careful look. Homeowners often request a free roof inspection after a heavy rain, before listing a home, or when an older shingle roof starts producing small but repeated concerns. Ask for photos and a plain explanation of whether the finding points to maintenance, a focused repair, or a larger decision.
+Squirrel Hill, Shadyside, Point Breeze, Highland Park, Bloomfield, Lawrenceville, the North Side, Mount Washington, Brookline, Beechview, the South Side slopes.
 
-## Bethel Park roof inspection
+City work is defined by two things: hills and old roofs. On a hillside street, one side of the house may be three stories off the ground while the other is nearly at grade — which changes how a roof gets accessed, staged, and inspected safely. Plenty of the East End housing still carries original slate, and slate is its own trade. A roofer who works exclusively in asphalt can walk a slate roof and break more than they find.
 
-Bethel Park homeowners can use a free roof inspection to sort out wind damage, missing shingles, water marks, and the condition of an aging roof before authorizing work. Multiple roof planes, additions, skylights, and gutters all create places where water management deserves attention. A local roofing professional can inspect the concern safely, explain what is visible, and tell you what should happen next without an obligation to hire.
+Row houses and close-set lots add a wrinkle: shared or near-shared walls mean water entering at one roof-to-wall transition can show up somewhere you'd never connect to it. Tell the inspector where you see it inside, not where you assume it's coming from.
 
-## Upper St. Clair roof inspection
+## South Hills
 
-In Upper St. Clair, larger roof footprints, steep sections, valleys, chimneys, and complex rooflines can make a ground-level look unreliable. A free roof inspection is a practical first step after a storm, before a sale, or when a repair recommendation does not yet feel supported by evidence. Describe the roof’s age, any recent leak, and whether the attic or an upper-floor room shows a new stain.
+Mt. Lebanon, Dormont, Bethel Park, Upper St. Clair, Baldwin, Brentwood, Whitehall, Castle Shannon, South Park, West Mifflin, Pleasant Hills.
 
-## Dormont roof inspection
+The old streetcar boroughs — Dormont and Mt. Lebanon in particular — are dense with 1920s and '30s brick homes, tile and slate roofs, real chimneys, and mature trees hanging over all of it. Two things dominate the calls: chimney flashing that's reached the end of its life, and gutters that can't keep up with decades of leaf load. A clogged gutter backing water under the shingle edge produces an interior stain that looks exactly like a roof failure.
 
-Dormont’s close-set homes and older housing can make roof edges, shared drainage paths, flashing, and water movement especially worth checking when a leak appears. A stain near a wall or chimney is not always directly below the entry point, so a useful roof inspection traces likely paths rather than guessing from one interior symptom. Request a free inspection before a small water problem becomes a larger drywall or framing concern.
+Farther south — Upper St. Clair, South Park, Bethel Park — the houses get newer and bigger, with more roof planes, more valleys, skylights, and additions. More transitions means more places to fail, and a ground-level look is close to worthless on a complicated roof.
 
-## Baldwin, Brentwood, and Whitehall roof inspection
+## East suburbs
 
-Baldwin, Brentwood, and Whitehall homeowners often need a clear answer after wind, snow, a branch impact, or a leak that appears only during certain weather. A free inspection can help distinguish a visible roofing issue from a drainage, flashing, or interior-moisture question. Share the weather that triggered the problem and any prior repairs so the local roofing professional can focus the visit.
+Monroeville, Penn Hills, Plum, Verona, Wilkinsburg, Swissvale, Edgewood, Forest Hills, Churchill, Murrysville.
 
-## South Park roof inspection
+Wilkinsburg, Swissvale, and Edgewood are Victorian-era boroughs — steep pitches, turrets and dormers, slate, and often a long unwritten history of patches by whoever was cheapest that year. Layered repairs are common, and they matter, because a patch over a patch over the wrong entry point can hide the actual problem for years.
 
-South Park properties range from established neighborhoods to homes with more open exposure and tree cover. That makes storm debris, gutter flow, roof edges, and branch contact worth checking after severe weather. A free South Park roof inspection gives you a local professional’s findings before you decide whether a repair, routine maintenance, or another opinion is the sensible next step.
+Monroeville, Plum, and Penn Hills mix eras: mid-century ranches next to '80s and '90s development next to new builds. Heavy tree cover throughout means branch impact, debris in valleys, and moss on the shaded northern slopes.
 
-## West Mifflin roof inspection
+## North Hills
 
-West Mifflin homeowners can request a free inspection for active leaks, aging shingles, storm concerns, or uncertainty before a repair decision. On any home, roof pitch, access, chimneys, valleys, and the route water takes after rain affect what needs attention. The goal is not to sell a replacement from the driveway; it is to identify the visible condition, explain the limits of the inspection, and outline a reasonable next move.
+Ross Township, McCandless, Shaler, Hampton, West View, Bellevue, Avalon, Wexford, Franklin Park, Pine.
 
-## Monroeville roof inspection
+Two distinct patterns up here. The river boroughs — Bellevue, Avalon, West View — are older and tighter, with compact lots and the same aging chimney-and-flashing issues as the city. Head north toward Wexford, Franklin Park, and Pine and the housing is largely postwar through recent, with bigger footprints, multiple roof planes, attached garages, and skylights.
 
-Monroeville’s mix of established homes and newer development means roof condition can vary widely even on the same street. A free roof inspection is useful when you are seeing granule loss, lifted shingles, attic staining, a ceiling mark, or a roof that has become a series of guesses. The local professional can review the roof covering, flashing, gutters, and accessible interior clues before discussing what the evidence supports.
+Newer isn't automatically better. Volume-built roofs from the 1990s and 2000s are hitting the age where the original asphalt is genuinely done, and installation shortcuts from that era — thin flashing, poorly cut valleys — show up right about now.
 
-## Penn Hills roof inspection
+## West suburbs
 
-Penn Hills has many homes where roof age, previous patches, tree cover, and drainage history all matter more than one quick visual check. If water appears after wind-driven rain or snow melt, a free inspection can help narrow the likely source. Give the professional the location of the interior symptom and the weather pattern that triggers it, while remembering that water can travel before it becomes visible indoors.
+Moon Township, Robinson, Coraopolis, Carnegie, Crafton, Oakdale, Kennedy, Sewickley, Findlay.
 
-## Plum and Verona roof inspection
+The airport corridor picked up substantial development from the 1980s on, so out here you'll see conventional asphalt on straightforward roof geometry more often than not. Carnegie, Crafton, and Coraopolis are older river-valley boroughs with the mixed housing and drainage complications that go with hillside lots. Sewickley runs to large, architecturally involved homes, some with slate or tile.
 
-For homes in Plum and Verona, a roof inspection is a smart first step when a storm, falling limb, gutter overflow, or older repair has left you uncertain about the roof’s condition. The visit should look beyond a single shingle to the flashing, valleys, penetrations, roof edges, and drainage path that keep water moving off the home. Request a free inspection and ask for clear findings before approving a repair.
+Open exposure on the ridges west of the city means wind is a bigger factor than it is in a sheltered East End street grid. Lifted shingles and torn ridge caps after a big storm are common.
 
-## Wilkinsburg, Swissvale, and Edgewood roof inspection
+## Beaver, Butler, and Washington County edges
 
-Wilkinsburg, Swissvale, and Edgewood include older homes where chimneys, dormers, roof-to-wall details, and long repair histories can complicate a leak. A free local roof inspection is useful when you need someone to explain what was actually observed and whether the next step is targeted repair, maintenance, or more documentation. It is also a better first move than climbing onto a wet or steep roof yourself.
+Cranberry, Mars, Zelienople, Aliquippa, Ambridge, Canonsburg, McMurray, Bridgeville, Peters Township.
 
-## Ross Township roof inspection
+We do get requests from outside Allegheny County and can often help. There's no line on a map that makes it automatic, though — it comes down to whether a given contractor's route reaches you. Call with the municipality and ZIP and you'll get a straight yes or no rather than a maybe.
 
-Ross Township homeowners can request a free inspection after high wind, heavy rain, snow, or a change in the roof’s appearance. Homes with multiple elevations, mature trees, and older roofing materials benefit from a closer look at flashing, valleys, gutters, and roof edges—not just a view from the driveway. A local professional can explain what is accessible and what the findings mean in plain English.
+## What to have ready when you call
 
-## McCandless roof inspection
+- Your municipality and ZIP — not just "Pittsburgh," since that could mean fifteen different drive times.
+- What the roof is, if you know. Asphalt, slate, tile, metal, flat or low-slope.
+- What's happening and when it started. "Stain in the back bedroom ceiling, showed up after the storm two weeks ago, gets bigger when it rains hard."
+- Whether water is coming in right now. That changes the urgency.
+- Anything you've already had done up there.
 
-In McCandless, a free roof inspection can answer the practical questions that arise when an older roof starts showing wear or a recent storm raises concern. Describe any missing shingles, damp attic area, ceiling stain, or prior repair. The goal is to identify whether the evidence supports immediate attention, a scheduled repair conversation, or continued monitoring rather than assuming every roof needs replacement.
+## Request a free roof inspection
 
-## Shaler and Hampton roof inspection
+Call **(412) 797-5703** or use the form. We hand it to one insured local roofing professional — one, not a call list — who confirms availability and schedules your free inspection. If you're on the outer edge of the metro, they'll tell you directly whether they can reach you.
 
-Shaler and Hampton homeowners often need roof help after a weather event or when tree cover, gutters, and an aging roof combine to create recurring moisture concerns. A free inspection gives you an opportunity to ask about roof covering condition, flashing, ventilation, accessible attic evidence, and drainage. Use it to get findings and photos before committing to any roofing work.
-
-## West View and Bellevue roof inspection
-
-West View and Bellevue homes can have compact lots, older roof details, chimneys, and tight roof-to-wall transitions where water entry is not always obvious from inside. A free inspection is a practical response to a new stain, a concern after wind, or a roof repair that has not solved the problem. The roofing professional should explain both what was observed and what could not be safely accessed.
-
-## Wexford and the North Hills roof inspection
-
-Wexford and nearby North Hills communities include homes with varied roof sizes, additions, skylights, and multiple roof planes. Those details create more valleys, penetrations, and transitions to inspect after a storm or before a major roofing decision. Request a free roof inspection when you want a clearer condition picture, then ask for a repair-first explanation whenever repair may be reasonable.
-
-## Robinson Township roof inspection
-
-Robinson Township homeowners can use a free inspection to assess a leak, storm concern, aging shingles, or a roof recommendation before moving ahead. Drainage, roof geometry, accessible attic evidence, and wind exposure all affect what a local professional needs to inspect. Tell us the municipality, the concern, and whether there is active water so the referral starts with useful information.
-
-## Moon Township roof inspection
-
-Moon Township’s mix of established residential areas and newer homes means a roof inspection should focus on the property in front of the professional, not a generic age rule. A free inspection can document visible storm effects, roof-surface wear, flashing concerns, gutter issues, and accessible interior clues. It gives you a local starting point before you authorize a repair or replacement conversation.
-
-## Carnegie, Crafton, and Oakdale roof inspection
-
-Carnegie, Crafton, and Oakdale homeowners can request a free roof inspection for leaks, roof-age questions, storm damage, or a second look at a recommendation. Homes in these west-side communities may have older roof systems, additions, chimneys, or drainage details that need more than a quick glance. Ask the professional to separate urgent findings from maintenance items and from choices that can wait.
-
-## Request a free roof inspection in the Pittsburgh area
-
-Use the form or call with your municipality, ZIP code, roof concern, and the best way to reach you. We will connect you with an insured local roofing professional for a free roof inspection. If you are near the edge of the Pittsburgh metro, the professional will confirm the route and availability directly; that confirmation is the only coverage detail that depends on the specific address.
-
-Pittsburgh Roof Inspection is a referral service, not the contractor. We do not perform inspections or roofing work ourselves. Referred professionals are insured; verify business identity, applicable Pennsylvania registration, insurance, scope, and references before hiring.
+Roof Inspection Pittsburgh is a referral service, not the contractor. We don't perform inspections or roofing work. The professionals we refer are insured; verify business identity, applicable Pennsylvania registration, insurance, scope, and references before you hire anyone.
