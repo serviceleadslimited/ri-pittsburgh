@@ -25,28 +25,24 @@ Prefer to skip the comparison shopping? Call **(412) 797-5703** or request a [fr
 ### EAS Roofing
 
 - **Public area:** Pittsburgh area / Glenshaw, PA
-- **Public phone:** (412) 744-8084
 
 EAS Roofing's public site identifies the company as a Pittsburgh roofing company and describes roofing and storm-restoration work for area homeowners. Its site provides a quote path for roofing concerns. Worth asking, if you call: which roof areas can be reached safely, whether attic or interior clues get looked at when the concern is a leak, and whether you'll get photographs and a written scope. Ask for the evidence behind any repair or replacement recommendation before you authorize anything.
 
 ### Holzer Jesko Quality Exteriors
 
 - **Public area:** Pittsburgh, PA
-- **Public phone:** (412) 387-7785
 
 Holzer Jesko's roof-inspection page says its process reviews shingles, flashing, ventilation, drainage systems, and structural integrity, and describes documented findings with photographic evidence. Since documentation is what they publish, hold them to it: which sections were examined, which weren't accessible, and how what they observed connects to what they're proposing. If a leak or storm is involved, give them the timing and location of the symptoms before the visit.
 
 ### Mighty Dog Roofing of West Pittsburgh
 
 - **Public area:** West Pittsburgh / Pittsburgh, PA
-- **Public phone:** (412) 899-2407
 
 Mighty Dog Roofing's Pittsburgh inspection page describes exterior and interior review covering shingles, gutters, flashing, water-damage signs, ventilation, and insulation, and presents a free-inspection scheduling path. Note this is a franchise operation rather than an independent local business — not a mark against it, but worth knowing when you're comparing. Ask whether the roof gets walked when it's safe, whether attic evidence is included, and whether what they found calls for a targeted repair, temporary protection, or something bigger.
 
 ### Pittsabana Roofing
 
 - **Public area:** Pittsburgh, PA
-- **Public phone:** (412) 580-6567
 
 Pittsabana's inspection page describes a 15-point inspection covering roof components, aerial photography, written findings, attic ventilation and insulation review, and attention to flashing, valleys, and penetrations. Its public page offers a free-inspection path for homeowners considering a roofing project. If your reason for calling is a purchase, sale, claim, or dispute, ask what documentation is included — and whether a contractor visit is even the right instrument, or whether you need a separate independent report.
 
